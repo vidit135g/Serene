@@ -1,0 +1,1581 @@
+org.threeten.bp.Month: org.threeten.bp.Month valueOf(java.lang.String)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void detachFromGLContext()
+com.dexterous.flutterlocalnotifications.models.NotificationDetails
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String IMPORTANCE
+com.google.android.gms.internal.firebase-auth-api.zzxq: android.os.Parcelable$Creator CREATOR
+com.dexterous.flutterlocalnotifications.models.DateTimeComponents: com.dexterous.flutterlocalnotifications.models.DateTimeComponents valueOf(java.lang.String)
+org.threeten.bp.chrono.ThaiBuddhistDate
+androidx.media.AudioAttributesImplBase
+com.google.android.gms.common.internal.ResolveAccountResponse: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.firebase-auth-api.zzlw: android.os.Parcelable$Creator CREATOR
+com.google.android.exoplayer2.source.smoothstreaming.SsMediaSource$Factory
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String NAME
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityCreated(android.app.Activity,android.os.Bundle)
+io.flutter.embedding.engine.FlutterJNI: void removeEngineLifecycleListener(io.flutter.embedding.engine.FlutterEngine$EngineLifecycleListener)
+io.flutter.embedding.android.TransparencyMode: io.flutter.embedding.android.TransparencyMode valueOf(java.lang.String)
+com.google.android.gms.safetynet.zza: android.os.Parcelable$Creator CREATOR
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String ID
+io.flutter.embedding.engine.FlutterJNI: io.flutter.plugin.platform.PlatformViewsController platformViewsController
+io.flutter.plugin.platform.SingleViewPresentation: android.content.Context outerContext
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String COLOR_RED
+io.flutter.embedding.engine.FlutterJNI
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: void readSoundInformation(com.dexterous.flutterlocalnotifications.models.NotificationDetails,java.util.Map)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String CHANNEL_SHOW_BADGE
+com.google.android.gms.internal.firebase-auth-api.zzeq
+org.threeten.bp.zone.ZoneOffsetTransitionRule$TimeDefinition: org.threeten.bp.zone.ZoneOffsetTransitionRule$TimeDefinition[] values()
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Long timeoutAfter
+com.google.android.gms.internal.firebase-auth-api.zzng: android.os.Parcelable$Creator CREATOR
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: com.dexterous.flutterlocalnotifications.models.DateTimeComponents matchDateTimeComponents
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.Boolean enableLights
+android.support.v4.media.MediaDescriptionCompat
+com.google.android.gms.internal.firebase-auth-api.zzvv: android.os.Parcelable$Creator CREATOR
+com.google.android.exoplayer2.source.dash.DashMediaSource$Factory
+com.google.android.gms.internal.firebase-auth-api.zzij
+com.google.android.gms.internal.firebase-auth-api.zzet: int zze
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void pendingNotificationRequests(io.flutter.plugin.common.MethodChannel$Result)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String INVALID_LED_DETAILS_ERROR_CODE
+android.support.v4.media.session.MediaSessionCompat$QueueItem: android.os.Parcelable$Creator CREATOR
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivitySaveInstanceState(android.app.Activity,android.os.Bundle)
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String GROUP_ID
+io.flutter.view.AccessibilityViewEmbedder: int nextFlutterId
+com.google.android.gms.internal.firebase-auth-api.zzjf: int zze
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Integer importance
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String COLOR_BLUE
+io.flutter.embedding.engine.FlutterJNI: void handlePlatformMessage(java.lang.String,byte[],int)
+org.threeten.bp.temporal.IsoFields$Field: org.threeten.bp.temporal.IsoFields$Field valueOf(java.lang.String)
+com.dexterous.flutterlocalnotifications.models.NotificationChannelAction: com.dexterous.flutterlocalnotifications.models.NotificationChannelAction valueOf(java.lang.String)
+com.google.android.gms.internal.firebase-auth-api.zzga: com.google.android.gms.internal.firebase-auth-api.zzyu zzf
+com.dexterous.flutterlocalnotifications.models.DateTimeComponents: com.dexterous.flutterlocalnotifications.models.DateTimeComponents DayOfWeekAndTime
+com.google.android.gms.internal.firebase-auth-api.zzjq: com.google.android.gms.internal.firebase-auth-api.zzjq zzb
+com.google.common.collect.Maps$EntryFunction: com.google.common.collect.Maps$EntryFunction[] values()
+org.threeten.bp.LocalTime: java.lang.Object readResolve()
+com.google.firebase.auth.GoogleAuthCredential: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.FlutterJNI: void onRenderingStopped()
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.Integer importance
+com.absolute.habits.MainActivity: MainActivity()
+io.flutter.plugins.firebase.core.FlutterFirebasePlugin
+com.dexterous.flutterlocalnotifications.models.styles.StyleInformation: StyleInformation()
+com.google.android.gms.internal.firebase-auth-api.zzfu: com.google.android.gms.internal.firebase-auth-api.zzfu zzb
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Boolean playSound
+com.google.android.exoplayer2.decoder.Buffer: boolean isEndOfStream()
+io.flutter.plugin.platform.SingleViewPresentation: io.flutter.plugin.platform.SingleViewPresentation$AccessibilityDelegatingFrameLayout rootView
+io.flutter.embedding.android.FlutterActivity: FlutterActivity()
+android.support.v4.media.RatingCompat: android.os.Parcelable$Creator CREATOR
+com.google.android.exoplayer2.decoder.Buffer: boolean getFlag(int)
+androidx.work.impl.workers.DiagnosticsWorker
+androidx.lifecycle.LiveData$LifecycleBoundObserver
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsEmojiModifierBase(int)
+com.google.android.gms.internal.firebase-auth-api.zzlq: android.os.Parcelable$Creator CREATOR
+android.support.v4.media.session.ParcelableVolumeInfo: android.os.Parcelable$Creator CREATOR
+android.support.v4.media.session.PlaybackStateCompat$CustomAction
+com.google.common.util.concurrent.AbstractFuture$Waiter: java.lang.Thread thread
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.deferredcomponents.DeferredComponentManager deferredComponentManager
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String SOUND_SOURCE
+androidx.work.impl.background.systemalarm.RescheduleReceiver
+org.threeten.bp.ZoneRegion: java.lang.Object readResolve()
+com.dexterous.flutterlocalnotifications.RuntimeTypeAdapterFactory: java.lang.String typeFieldName
+io.flutter.embedding.engine.FlutterJNI: void addEngineLifecycleListener(io.flutter.embedding.engine.FlutterEngine$EngineLifecycleListener)
+com.google.android.gms.common.api.Status: android.os.Parcelable$Creator CREATOR
+com.google.android.exoplayer2.video.ColorInfo: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.firebase-auth-api.zzxd: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.FlutterJNI: void setPlatformViewsController(io.flutter.plugin.platform.PlatformViewsController)
+io.flutter.plugin.platform.SingleViewPresentation: void onCreate(android.os.Bundle)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Boolean onlyAlertOnce
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Boolean showProgress
+androidx.core.graphics.drawable.IconCompat
+com.google.android.exoplayer2.offline.StreamKey: android.os.Parcelable$Creator CREATOR
+androidx.fragment.app.Fragment$2
+androidx.work.ExistingPeriodicWorkPolicy: androidx.work.ExistingPeriodicWorkPolicy valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: java.util.Set engineLifecycleListeners
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String PRIORITY
+io.flutter.embedding.android.TransparencyMode: io.flutter.embedding.android.TransparencyMode[] values()
+androidx.work.NetworkType: androidx.work.NetworkType[] values()
+com.google.android.gms.internal.firebase-auth-api.zzgg: int zze
+io.flutter.view.AccessibilityViewEmbedder: boolean performAction(int,int,android.os.Bundle)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void show(io.flutter.plugin.common.MethodCall,io.flutter.plugin.common.MethodChannel$Result)
+io.flutter.embedding.engine.FlutterOverlaySurface: int getId()
+com.dexterous.flutterlocalnotifications.models.Time: java.lang.String HOUR
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String NAME
+com.dexterous.flutterlocalnotifications.NotificationStyle: com.dexterous.flutterlocalnotifications.NotificationStyle BigPicture
+com.google.android.gms.internal.firebase-auth-api.zznq: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.firebase-auth-api.zzff: int zzf
+com.dexterous.flutterlocalnotifications.BitmapSource: com.dexterous.flutterlocalnotifications.BitmapSource[] $VALUES
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String LED_COLOR_GREEN
+org.threeten.bp.chrono.MinguoEra
+android.support.v4.graphics.drawable.IconCompatParcelizer: androidx.core.graphics.drawable.IconCompat read(androidx.versionedparcelable.VersionedParcel)
+com.dexterous.flutterlocalnotifications.models.PersonDetails: PersonDetails(java.lang.Boolean,java.lang.String,com.dexterous.flutterlocalnotifications.models.IconSource,java.lang.Boolean,java.lang.String,java.lang.String,java.lang.String)
+com.google.android.gms.internal.firebase-auth-api.zzid: com.google.android.gms.internal.firebase-auth-api.zzid[] values()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String CANCEL_ID
+com.google.android.gms.internal.firebase-auth-api.zzfr: int zze
+com.google.android.gms.auth.api.signin.GoogleSignInOptions: android.os.Parcelable$Creator CREATOR
+com.dexterous.flutterlocalnotifications.models.styles.DefaultStyleInformation
+com.dexterous.flutterlocalnotifications.utils.StringUtils: StringUtils()
+android.support.v4.media.MediaBrowserCompat$MediaItem: android.os.Parcelable$Creator CREATOR
+com.google.firebase.auth.GithubAuthCredential: android.os.Parcelable$Creator CREATOR
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String timeZoneName
+com.dexterous.flutterlocalnotifications.models.ScheduledNotificationRepeatFrequency: com.dexterous.flutterlocalnotifications.models.ScheduledNotificationRepeatFrequency valueOf(java.lang.String)
+com.google.android.gms.internal.firebase-auth-api.zzez
+com.google.android.gms.internal.firebase-auth-api.zzff: com.google.android.gms.internal.firebase-auth-api.zzff zzb
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: com.dexterous.flutterlocalnotifications.SoundSource soundSource
+androidx.work.impl.WorkDatabase_Impl
+com.google.android.gms.internal.firebase-auth-api.zzir: com.google.android.gms.internal.firebase-auth-api.zzaab zzf
+io.flutter.embedding.engine.FlutterJNI: void nativeSetAccessibilityFeatures(long,int)
+com.google.common.collect.Maps$EntryFunction: com.google.common.collect.Maps$EntryFunction valueOf(java.lang.String)
+com.dexterous.flutterlocalnotifications.models.PersonDetails: java.lang.String name
+androidx.media.AudioAttributesImplApi21: AudioAttributesImplApi21()
+io.flutter.embedding.engine.systemchannels.PlatformChannel$HapticFeedbackType: io.flutter.embedding.engine.systemchannels.PlatformChannel$HapticFeedbackType[] values()
+com.google.android.gms.internal.firebase-auth-api.zzwq: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.firebase-auth-api.zznu: android.os.Parcelable$Creator CREATOR
+androidx.media.AudioAttributesCompat
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event valueOf(java.lang.String)
+com.dexterous.flutterlocalnotifications.utils.BooleanUtils
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String TIMEOUT_AFTER
+com.google.android.gms.internal.firebase-auth-api.zzmw: android.os.Parcelable$Creator CREATOR
+androidx.core.graphics.drawable.IconCompatParcelizer: IconCompatParcelizer()
+io.flutter.embedding.engine.FlutterJNI: long performNativeAttach(io.flutter.embedding.engine.FlutterJNI,boolean)
+io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar: FlutterFirebaseCoreRegistrar()
+com.google.android.exoplayer2.source.smoothstreaming.SsMediaSource$Factory: SsMediaSource$Factory(com.google.android.exoplayer2.upstream.DataSource$Factory)
+org.threeten.bp.Year
+io.flutter.embedding.android.FlutterSplashView$SavedState: java.lang.String access$600(io.flutter.embedding.android.FlutterSplashView$SavedState)
+com.google.firebase.components.ComponentDiscoveryService: ComponentDiscoveryService()
+androidx.media.AudioAttributesImplBase: AudioAttributesImplBase()
+org.threeten.bp.temporal.ChronoField: org.threeten.bp.temporal.ChronoField valueOf(java.lang.String)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.WindowInsetsAnimation$Callback getAnimationCallback()
+com.google.android.gms.internal.firebase-auth-api.zzha: com.google.android.gms.internal.firebase-auth-api.zzhj zze
+io.flutter.embedding.engine.systemchannels.TextInputChannel$TextInputType: io.flutter.embedding.engine.systemchannels.TextInputChannel$TextInputType valueOf(java.lang.String)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void initAndroidThreeTen(android.content.Context)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String CALLED_AT
+io.flutter.embedding.engine.FlutterJNI: void attachToNative(boolean)
+com.dexterous.flutterlocalnotifications.NotificationStyle: com.dexterous.flutterlocalnotifications.NotificationStyle valueOf(java.lang.String)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean animating
+com.google.android.exoplayer2.upstream.RawResourceDataSource: android.net.Uri buildRawResourceUri(int)
+org.threeten.bp.chrono.HijrahDate: java.lang.Object readResolve()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void createNotificationChannel(io.flutter.plugin.common.MethodCall,io.flutter.plugin.common.MethodChannel$Result)
+android.support.v4.media.session.MediaControllerCompat$MediaControllerImplApi21$ExtraBinderRequestResultReceiver
+com.google.android.gms.common.internal.zza: android.os.Parcelable$Creator CREATOR
+com.dexterous.flutterlocalnotifications.models.NotificationChannelGroupDetails
+io.flutter.view.AccessibilityViewEmbedder: void addChildrenToFlutterNode(android.view.accessibility.AccessibilityNodeInfo,android.view.View,android.view.accessibility.AccessibilityNodeInfo)
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String name
+android.support.v4.app.RemoteActionCompatParcelizer: androidx.core.app.RemoteActionCompat read(androidx.versionedparcelable.VersionedParcel)
+androidx.loader.app.LoaderManagerImpl$LoaderViewModel
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String SHOW_WHEN
+org.threeten.bp.chrono.Chronology: java.lang.Object writeReplace()
+com.google.android.gms.auth.api.signin.internal.GoogleSignInOptionsExtensionParcelable: android.os.Parcelable$Creator CREATOR
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.util.HashMap getMappedNotificationChannel(android.app.NotificationChannel)
+io.flutter.embedding.engine.FlutterJNI: void removeIsDisplayingFlutterUiListener(io.flutter.embedding.engine.renderer.FlutterUiDisplayListener)
+com.google.android.gms.internal.firebase-auth-api.zzgj: int zze
+com.google.android.exoplayer2.drm.DrmInitData: android.os.Parcelable$Creator CREATOR
+com.dexterous.flutterlocalnotifications.models.PersonDetails
+com.google.android.exoplayer2.metadata.scte35.SpliceInsertCommand: android.os.Parcelable$Creator CREATOR
+com.google.android.exoplayer2.video.VideoDecoderOutputBuffer: int COLORSPACE_BT709
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Boolean indeterminate
+io.flutter.embedding.engine.FlutterJNI: void setViewportMetrics(float,int,int,int,int,int,int,int,int,int,int,int,int,int,int)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: int overlayInsetTypes
+com.google.android.gms.internal.firebase-auth-api.zziz
+com.dexterous.flutterlocalnotifications.models.styles.DefaultStyleInformation: java.lang.Boolean htmlFormatBody
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.Boolean sendNotificationPayloadMessage(android.content.Intent)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String INVALID_RAW_RESOURCE_ERROR_MESSAGE
+androidx.versionedparcelable.CustomVersionedParcelable: CustomVersionedParcelable()
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String USES_CHRONOMETER
+androidx.browser.browseractions.BrowserActionsFallbackMenuView
+com.dexterous.flutterlocalnotifications.models.MessageDetails: java.lang.String text
+io.flutter.embedding.engine.FlutterJNI: void handlePlatformMessageResponse(int,byte[])
+com.google.android.gms.internal.firebase-auth-api.zzfo
+be.tramckrijte.workmanager.Extractor$PossibleWorkManagerCall: be.tramckrijte.workmanager.Extractor$PossibleWorkManagerCall[] values()
+io.flutter.embedding.engine.FlutterOverlaySurface: int id
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String HTML_FORMAT_CONTENT
+com.dexterous.flutterlocalnotifications.models.ScheduledNotificationRepeatFrequency: com.dexterous.flutterlocalnotifications.models.ScheduledNotificationRepeatFrequency Daily
+android.support.v4.app.RemoteActionCompatParcelizer: void write(androidx.core.app.RemoteActionCompat,androidx.versionedparcelable.VersionedParcel)
+androidx.core.graphics.drawable.IconCompatParcelizer: void write(androidx.core.graphics.drawable.IconCompat,androidx.versionedparcelable.VersionedParcel)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String body
+com.google.android.gms.internal.firebase-auth-api.zzij: com.google.android.gms.internal.firebase-auth-api.zzij zzb
+androidx.media.AudioAttributesCompatParcelizer: void write(androidx.media.AudioAttributesCompat,androidx.versionedparcelable.VersionedParcel)
+org.threeten.bp.LocalDateTime
+org.threeten.bp.format.TextStyle: org.threeten.bp.format.TextStyle[] values()
+com.google.android.gms.internal.firebase-auth-api.zzgg
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsEmojiModifier(int)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: androidx.core.app.Person buildPerson(android.content.Context,com.dexterous.flutterlocalnotifications.models.PersonDetails)
+com.dexterous.flutterlocalnotifications.models.NotificationChannelAction: com.dexterous.flutterlocalnotifications.models.NotificationChannelAction[] $VALUES
+android.support.v4.media.session.ParcelableVolumeInfo
+android.support.v4.media.AudioAttributesImplBaseParcelizer
+com.google.android.exoplayer2.metadata.scte35.SpliceScheduleCommand: android.os.Parcelable$Creator CREATOR
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String CHANNEL_ID
+com.dexterous.flutterlocalnotifications.BitmapSource: com.dexterous.flutterlocalnotifications.BitmapSource FilePath
+androidx.loader.app.LoaderManagerImpl$LoaderViewModel: LoaderManagerImpl$LoaderViewModel()
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Boolean ongoing
+io.flutter.embedding.engine.FlutterJNI: boolean setRefreshRateFPSCalled
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String CONTENT_TITLE
+com.google.android.gms.internal.firebase-auth-api.zzlm: android.os.Parcelable$Creator CREATOR
+com.google.firebase.auth.internal.GenericIdpActivity
+com.dexterous.flutterlocalnotifications.models.NotificationChannelGroupDetails: java.lang.String name
+com.google.android.exoplayer2.video.VideoDecoderOutputBuffer: java.nio.ByteBuffer[] yuvPlanes
+android.support.v4.media.AudioAttributesImplApi21Parcelizer: AudioAttributesImplApi21Parcelizer()
+com.dexterous.flutterlocalnotifications.models.NotificationChannelGroupDetails: com.dexterous.flutterlocalnotifications.models.NotificationChannelGroupDetails from(java.util.Map)
+com.google.android.gms.internal.firebase-auth-api.zzht: com.google.android.gms.internal.firebase-auth-api.zzht zzb
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void onAttachedToEngine(io.flutter.embedding.engine.plugins.FlutterPlugin$FlutterPluginBinding)
+com.google.android.gms.internal.firebase-auth-api.zzhl: com.google.android.gms.internal.firebase-auth-api.zzhl[] values()
+io.flutter.embedding.engine.FlutterJNI: void markTextureFrameAvailable(long)
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails from(java.util.Map)
+com.google.android.gms.internal.firebase-auth-api.zzjq: com.google.android.gms.internal.firebase-auth-api.zzyu zzf
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: android.graphics.Bitmap getBitmapFromSource(android.content.Context,java.lang.String,com.dexterous.flutterlocalnotifications.BitmapSource)
+com.dexterous.flutterlocalnotifications.models.styles.InboxStyleInformation: java.lang.Boolean htmlFormatLines
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: androidx.core.app.NotificationCompat$MessagingStyle$Message createMessage(android.content.Context,com.dexterous.flutterlocalnotifications.models.MessageDetails)
+io.flutter.embedding.engine.FlutterJNI: boolean nativeGetIsSoftwareRenderingEnabled()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void repeat(io.flutter.plugin.common.MethodCall,io.flutter.plugin.common.MethodChannel$Result)
+com.google.android.gms.internal.firebase-auth-api.zzim
+org.threeten.bp.zone.ZoneOffsetTransitionRule$TimeDefinition: org.threeten.bp.zone.ZoneOffsetTransitionRule$TimeDefinition valueOf(java.lang.String)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: void pushClipRect(int,int,int,int)
+com.google.android.gms.dynamite.descriptors.com.google.firebase.auth.ModuleDescriptor: ModuleDescriptor()
+io.flutter.plugins.firebase.core.FlutterFirebasePluginRegistry: void registerPlugin(java.lang.String,io.flutter.plugins.firebase.core.FlutterFirebasePlugin)
+com.dexterous.flutterlocalnotifications.models.styles.BigTextStyleInformation: BigTextStyleInformation(java.lang.Boolean,java.lang.Boolean,java.lang.String,java.lang.Boolean,java.lang.String,java.lang.Boolean,java.lang.String,java.lang.Boolean)
+androidx.work.NetworkType: androidx.work.NetworkType valueOf(java.lang.String)
+com.google.android.gms.internal.firebase-auth-api.zzmq: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.firebase-auth-api.zzme: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.firebase-auth-api.zzew: com.google.android.gms.internal.firebase-auth-api.zzew zzb
+com.google.android.gms.internal.firebase-auth-api.zzjf: com.google.android.gms.internal.firebase-auth-api.zzjf zzb
+io.flutter.embedding.android.FlutterSplashView$SavedState: FlutterSplashView$SavedState(android.os.Parcelable)
+io.flutter.plugins.firebase.core.FlutterFirebasePlugin: com.google.android.gms.tasks.Task didReinitializeFirebaseCore()
+com.google.android.gms.internal.firebase-auth-api.zzlo: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.FlutterJNI: void registerTexture(long,io.flutter.embedding.engine.renderer.SurfaceTextureWrapper)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback: void onPrepare(android.view.WindowInsetsAnimation)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String SUB_TEXT
+com.dexterous.flutterlocalnotifications.models.styles.InboxStyleInformation: java.lang.Boolean htmlFormatSummaryText
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void setTimeoutAfter(com.dexterous.flutterlocalnotifications.models.NotificationDetails,androidx.core.app.NotificationCompat$Builder)
+com.google.android.gms.internal.firebase-auth-api.zzhd: com.google.android.gms.internal.firebase-auth-api.zzhg zzf
+io.flutter.embedding.engine.systemchannels.TextInputChannel$TextInputType: io.flutter.embedding.engine.systemchannels.TextInputChannel$TextInputType[] values()
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String CHANNEL_ACTION
+io.flutter.embedding.engine.FlutterJNI: void nativeUnregisterTexture(long,long)
+com.google.android.gms.internal.firebase-auth-api.zzfc: com.google.android.gms.internal.firebase-auth-api.zzyu zzg
+org.threeten.bp.chrono.ThaiBuddhistEra: org.threeten.bp.chrono.ThaiBuddhistEra[] values()
+io.flutter.embedding.android.FlutterImageView$SurfaceKind: io.flutter.embedding.android.FlutterImageView$SurfaceKind[] values()
+com.dexterous.flutterlocalnotifications.models.styles.BigTextStyleInformation: java.lang.Boolean htmlFormatContentTitle
+com.google.android.gms.internal.firebase-auth-api.zzhd: int zze
+org.threeten.bp.chrono.IsoEra: org.threeten.bp.chrono.IsoEra valueOf(java.lang.String)
+com.google.android.exoplayer2.metadata.id3.PrivFrame: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.firebase-auth-api.zzzw: com.google.android.gms.internal.firebase-auth-api.zzaca zzc
+androidx.work.Worker
+com.google.android.exoplayer2.decoder.OutputBuffer: OutputBuffer()
+com.google.firebase.FirebaseCommonRegistrar: FirebaseCommonRegistrar()
+com.dexterous.flutterlocalnotifications.models.styles.BigPictureStyleInformation: java.lang.String contentTitle
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Long calledAt
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.View access$600(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+com.google.android.gms.common.api.internal.LifecycleCallback: com.google.android.gms.common.api.internal.LifecycleFragment getChimeraLifecycleFragmentImpl(com.google.android.gms.common.api.internal.LifecycleActivity)
+io.flutter.embedding.engine.FlutterJNI: boolean prefetchDefaultFontManagerCalled
+be.tramckrijte.workmanager.Extractor$PossibleWorkManagerCall: be.tramckrijte.workmanager.Extractor$PossibleWorkManagerCall valueOf(java.lang.String)
+com.google.android.exoplayer2.source.hls.HlsMediaSource$Factory: HlsMediaSource$Factory(com.google.android.exoplayer2.upstream.DataSource$Factory)
+com.google.android.exoplayer2.metadata.id3.BinaryFrame: android.os.Parcelable$Creator CREATOR
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void setVisibility(com.dexterous.flutterlocalnotifications.models.NotificationDetails,androidx.core.app.NotificationCompat$Builder)
+io.flutter.embedding.engine.FlutterJNI: java.lang.String getObservatoryUri()
+com.google.android.gms.internal.firebase-auth-api.zziq: int zzg
+androidx.media.AudioAttributesImplApi21Parcelizer
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: com.dexterous.flutterlocalnotifications.NotificationStyle style
+com.google.android.gms.internal.firebase-auth-api.zzjk: com.google.android.gms.internal.firebase-auth-api.zzjk[] values()
+io.flutter.embedding.engine.FlutterJNI: void onDisplayOverlaySurface(int,int,int,int,int)
+com.google.android.gms.internal.firebase-auth-api.zzha: com.google.android.gms.internal.firebase-auth-api.zzgu zzf
+org.threeten.bp.Ser
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPreDestroyed(android.app.Activity)
+com.dexterous.flutterlocalnotifications.NotificationStyle: com.dexterous.flutterlocalnotifications.NotificationStyle Messaging
+io.flutter.embedding.engine.FlutterJNI: void nativeSurfaceDestroyed(long)
+org.threeten.bp.LocalDate
+com.google.firebase.auth.internal.zzag: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.firebase-auth-api.zzfx
+io.flutter.embedding.engine.FlutterOverlaySurface: android.view.Surface getSurface()
+com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService: FirebaseAuthFallbackService()
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: android.graphics.SurfaceTexture surfaceTexture()
+com.dexterous.flutterlocalnotifications.models.styles.InboxStyleInformation: java.util.ArrayList lines
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void zonedSchedule(io.flutter.plugin.common.MethodCall,io.flutter.plugin.common.MethodChannel$Result)
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_START
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String WHEN
+com.google.android.gms.internal.firebase-auth-api.zzzt: com.google.android.gms.internal.firebase-auth-api.zzzo zzb
+com.google.android.exoplayer2.metadata.id3.CommentFrame: android.os.Parcelable$Creator CREATOR
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void tryCommittingInBackground(android.content.SharedPreferences$Editor,int)
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String sound
+org.threeten.bp.chrono.IsoChronology: java.lang.Object readResolve()
+io.flutter.embedding.android.FlutterSplashView$SavedState: android.os.Bundle access$702(io.flutter.embedding.android.FlutterSplashView$SavedState,android.os.Bundle)
+com.dexterous.flutterlocalnotifications.RepeatInterval: com.dexterous.flutterlocalnotifications.RepeatInterval valueOf(java.lang.String)
+com.google.android.gms.internal.firebase-auth-api.zzim: boolean zzh
+com.google.android.gms.internal.firebase-auth-api.zzfi: int zze
+com.google.android.gms.common.Feature: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: boolean released
+com.google.firebase.auth.ActionCodeSettings: android.os.Parcelable$Creator CREATOR
+com.google.android.exoplayer2.video.VideoDecoderOutputBuffer: int COLORSPACE_UNKNOWN
+com.google.android.gms.internal.firebase-auth-api.zzmc: android.os.Parcelable$Creator CREATOR
+com.dexterous.flutterlocalnotifications.models.MessageDetails: java.lang.String dataMimeType
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: int deferredInsetTypes
+com.google.android.exoplayer2.metadata.emsg.EventMessage: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.firebase-auth-api.zziv: int zzg
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_DESTROY
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Boolean showWhen
+com.google.android.gms.internal.firebase-auth-api.zzho: com.google.android.gms.internal.firebase-auth-api.zzho zzb
+com.google.android.gms.signin.internal.zak: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsRegionalIndicator(int)
+com.google.android.exoplayer2.metadata.icy.IcyInfo: android.os.Parcelable$Creator CREATOR
+org.threeten.bp.LocalDate: java.lang.Object writeReplace()
+io.flutter.embedding.android.DrawableSplashScreen$DrawableSplashScreenView
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String SCHEDULE_METHOD
+io.flutter.embedding.engine.FlutterJNI: void dispatchSemanticsAction(int,io.flutter.view.AccessibilityBridge$Action)
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String LED_COLOR_RED
+org.threeten.bp.chrono.JapaneseChronology: java.lang.Object readResolve()
+com.google.android.gms.internal.firebase-auth-api.zziw: com.google.android.gms.internal.firebase-auth-api.zziw zzb
+com.google.android.exoplayer2.decoder.OutputBuffer: long timeUs
+com.dexterous.flutterlocalnotifications.RuntimeTypeAdapterFactory: java.util.Map subtypeToLabel
+androidx.work.ListenableWorker
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String PENDING_NOTIFICATION_REQUESTS_METHOD
+com.google.firebase.auth.PhoneAuthProvider$ForceResendingToken: android.os.Parcelable$Creator CREATOR
+androidx.concurrent.futures.AbstractResolvableFuture: java.lang.Object value
+io.flutter.view.AccessibilityViewEmbedder: void setFlutterNodesTranslateBounds(android.view.accessibility.AccessibilityNodeInfo,android.graphics.Rect,android.view.accessibility.AccessibilityNodeInfo)
+io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar
+io.flutter.embedding.engine.FlutterJNI: void dispatchPlatformMessage(java.lang.String,java.nio.ByteBuffer,int,int)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String GET_ACTIVE_NOTIFICATIONS_ERROR_MESSAGE
+org.threeten.bp.LocalTime: java.lang.Object writeReplace()
+io.flutter.embedding.engine.FlutterJNI: void onSurfaceCreated(android.view.Surface)
+com.google.firebase.auth.internal.zzt: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.firebase-auth-api.zzwh: android.os.Parcelable$Creator CREATOR
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Boolean setAsGroupSummary
+androidx.core.app.RemoteActionCompatParcelizer
+io.flutter.embedding.engine.FlutterJNI: void setDeferredComponentManager(io.flutter.embedding.engine.deferredcomponents.DeferredComponentManager)
+com.google.android.gms.dynamite.descriptors.com.google.firebase.auth.ModuleDescriptor
+com.dexterous.flutterlocalnotifications.models.styles.DefaultStyleInformation: DefaultStyleInformation(java.lang.Boolean,java.lang.Boolean)
+androidx.work.OverwritingInputMerger
+com.dexterous.flutterlocalnotifications.models.PersonDetails: java.lang.String key
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String REPEAT_INTERVAL
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: boolean hasInvalidBigPictureResources(io.flutter.plugin.common.MethodChannel$Result,com.dexterous.flutterlocalnotifications.models.NotificationDetails)
+android.support.v4.media.AudioAttributesImplApi26Parcelizer: androidx.media.AudioAttributesImplApi26 read(androidx.versionedparcelable.VersionedParcel)
+io.flutter.embedding.engine.FlutterJNI: void onPreEngineRestart()
+com.google.android.gms.internal.firebase-auth-api.zzgg: com.google.android.gms.internal.firebase-auth-api.zzyu zzf
+com.google.android.gms.internal.firebase-auth-api.zzhd
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String STYLE_INFORMATION
+com.google.firebase.auth.FirebaseAuthRegistrar: FirebaseAuthRegistrar()
+com.google.android.gms.internal.firebase-auth-api.zzacq: com.google.android.gms.internal.firebase-auth-api.zzacq[] values()
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String ADDITIONAL_FLAGS
+com.google.gson.stream.JsonToken: com.google.gson.stream.JsonToken[] values()
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: void readProgressInformation(com.dexterous.flutterlocalnotifications.models.NotificationDetails,java.util.Map)
+com.google.android.exoplayer2.source.dash.DashMediaSource$Factory: DashMediaSource$Factory(com.google.android.exoplayer2.upstream.DataSource$Factory)
+com.google.android.gms.internal.firebase-auth-api.zziz: com.google.android.gms.internal.firebase-auth-api.zzjc zzf
+com.google.android.gms.internal.firebase-auth-api.zzeq: int zze
+com.google.android.gms.signin.internal.zab: android.os.Parcelable$Creator CREATOR
+androidx.activity.ComponentActivity: ComponentActivity()
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String channelDescription
+androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy: ConstraintProxy$NetworkStateProxy()
+android.support.v4.media.session.MediaSessionCompat$Token: android.os.Parcelable$Creator CREATOR
+androidx.work.impl.diagnostics.DiagnosticsReceiver: DiagnosticsReceiver()
+org.threeten.bp.zone.ZoneOffsetTransitionRule
+androidx.annotation.Keep
+io.flutter.plugin.editing.TextInputPlugin$InputTarget$Type: io.flutter.plugin.editing.TextInputPlugin$InputTarget$Type[] values()
+io.flutter.embedding.engine.plugins.lifecycle.HiddenLifecycleReference: androidx.lifecycle.Lifecycle getLifecycle()
+org.threeten.bp.zone.StandardZoneRules: java.lang.Object writeReplace()
+io.flutter.view.AccessibilityBridge$Action: io.flutter.view.AccessibilityBridge$Action valueOf(java.lang.String)
+androidx.concurrent.futures.AbstractResolvableFuture$Waiter: java.lang.Thread thread
+com.google.android.exoplayer2.metadata.scte35.TimeSignalCommand: android.os.Parcelable$Creator CREATOR
+androidx.work.WorkInfo$State: androidx.work.WorkInfo$State valueOf(java.lang.String)
+androidx.savedstate.Recreator
+com.dexterous.flutterlocalnotifications.models.IconSource: com.dexterous.flutterlocalnotifications.models.IconSource[] $VALUES
+com.google.android.gms.internal.firebase-auth-api.zzwl: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.RemoteActionCompatParcelizer
+org.threeten.bp.chrono.IsoChronology
+org.threeten.bp.MonthDay: java.lang.Object readResolve()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void cancelNotification(java.lang.Integer,java.lang.String)
+org.threeten.bp.chrono.MinguoEra: org.threeten.bp.chrono.MinguoEra[] values()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean access$200(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+androidx.work.WorkInfo$State: androidx.work.WorkInfo$State[] values()
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiOverlay: io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiOverlay[] values()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.View$OnApplyWindowInsetsListener getInsetsListener()
+androidx.concurrent.futures.AbstractResolvableFuture: androidx.concurrent.futures.AbstractResolvableFuture$Waiter waiters
+io.flutter.view.FlutterCallbackInformation: java.lang.String callbackClassName
+com.dexterous.flutterlocalnotifications.models.NotificationChannelAction: com.dexterous.flutterlocalnotifications.models.NotificationChannelAction Update
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: int access$100(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Boolean allowWhileIdle
+androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy: ConstraintProxy$BatteryNotLowProxy()
+androidx.media.AudioAttributesImplBaseParcelizer: void write(androidx.media.AudioAttributesImplBase,androidx.versionedparcelable.VersionedParcel)
+io.flutter.embedding.engine.FlutterJNI: void dispatchSemanticsAction(int,int,java.nio.ByteBuffer,int)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: boolean hasInvalidLargeIcon(io.flutter.plugin.common.MethodChannel$Result,java.lang.String,com.dexterous.flutterlocalnotifications.BitmapSource)
+io.flutter.embedding.engine.FlutterJNI: java.util.Set flutterUiDisplayListeners
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void setLights(com.dexterous.flutterlocalnotifications.models.NotificationDetails,androidx.core.app.NotificationCompat$Builder)
+com.google.android.gms.internal.firebase-auth-api.zzen: com.google.android.gms.internal.firebase-auth-api.zzen zzb
+com.dexterous.flutterlocalnotifications.utils.BooleanUtils: boolean getValue(java.lang.Boolean)
+com.google.android.gms.internal.firebase-auth-api.zzns: android.os.Parcelable$Creator CREATOR
+io.flutter.plugin.platform.SingleViewPresentation: android.widget.FrameLayout container
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void setStyle(android.content.Context,com.dexterous.flutterlocalnotifications.models.NotificationDetails,androidx.core.app.NotificationCompat$Builder)
+org.threeten.bp.chrono.HijrahChronology
+org.threeten.bp.temporal.ChronoUnit: org.threeten.bp.temporal.ChronoUnit[] values()
+com.google.android.gms.internal.firebase-auth-api.zzacp: com.google.android.gms.internal.firebase-auth-api.zzacp[] values()
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String KEY
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void setMediaStyle(androidx.core.app.NotificationCompat$Builder)
+com.google.android.gms.internal.firebase-auth-api.zzha: int zzg
+io.flutter.embedding.android.FlutterImageView: android.view.Surface getSurface()
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: void readBigPictureStyleInformation(com.dexterous.flutterlocalnotifications.models.NotificationDetails,java.util.Map,com.dexterous.flutterlocalnotifications.models.styles.DefaultStyleInformation)
+com.google.android.gms.internal.firebase-auth-api.zzhw: com.google.android.gms.internal.firebase-auth-api.zzhw zzb
+com.dexterous.flutterlocalnotifications.BitmapSource
+io.flutter.plugin.editing.TextInputPlugin$InputTarget$Type: io.flutter.plugin.editing.TextInputPlugin$InputTarget$Type valueOf(java.lang.String)
+com.google.android.gms.internal.firebase-auth-api.zzlu: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.firebase-auth-api.zzim: com.google.android.gms.internal.firebase-auth-api.zzim zzb
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: android.app.AlarmManager getAlarmManager(android.content.Context)
+io.flutter.embedding.engine.systemchannels.SettingsChannel$PlatformBrightness: io.flutter.embedding.engine.systemchannels.SettingsChannel$PlatformBrightness valueOf(java.lang.String)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String INDETERMINATE
+io.flutter.view.AccessibilityBridge$TextDirection: io.flutter.view.AccessibilityBridge$TextDirection valueOf(java.lang.String)
+org.threeten.bp.chrono.HijrahEra: java.lang.Object writeReplace()
+androidx.activity.ComponentActivity$3
+com.google.android.gms.internal.firebase-auth-api.zzho: com.google.android.gms.internal.firebase-auth-api.zzyu zze
+com.google.android.gms.internal.firebase-auth-api.zzfc: com.google.android.gms.internal.firebase-auth-api.zzfc zzb
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String MILLISECONDS_SINCE_EPOCH
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String SHOW_WEEKLY_AT_DAY_AND_TIME_METHOD
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void setActivity(android.app.Activity)
+com.dexterous.flutterlocalnotifications.ScheduledNotificationBootReceiver: ScheduledNotificationBootReceiver()
+com.dexterous.flutterlocalnotifications.models.styles.BigPictureStyleInformation: com.dexterous.flutterlocalnotifications.BitmapSource largeIconBitmapSource
+androidx.work.impl.WorkDatabase: WorkDatabase()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: android.content.Intent getLaunchIntent(android.content.Context)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String category
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void onDetachedFromActivity()
+androidx.media.AudioAttributesImplApi26: AudioAttributesImplApi26()
+com.google.android.gms.internal.firebase-auth-api.zzgd: int zzf
+io.flutter.embedding.engine.FlutterJNI: void addIsDisplayingFlutterUiListener(io.flutter.embedding.engine.renderer.FlutterUiDisplayListener)
+android.support.v4.media.session.MediaSessionCompat$QueueItem
+org.threeten.bp.Year: java.lang.Object writeReplace()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String PAYLOAD
+com.dexterous.flutterlocalnotifications.models.PersonDetails: java.lang.Boolean important
+com.google.android.gms.internal.firebase-auth-api.zzxb: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.systemchannels.PlatformChannel$ClipboardContentFormat: io.flutter.embedding.engine.systemchannels.PlatformChannel$ClipboardContentFormat[] values()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void setProgress(com.dexterous.flutterlocalnotifications.models.NotificationDetails,androidx.core.app.NotificationCompat$Builder)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String payload
+androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy: ConstraintProxy$StorageNotLowProxy()
+com.google.android.gms.internal.firebase-auth-api.zzij: com.google.android.gms.internal.firebase-auth-api.zzyu zzf
+com.dexterous.flutterlocalnotifications.models.styles.MessagingStyleInformation
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void onAttachedToEngine(android.content.Context,io.flutter.plugin.common.BinaryMessenger)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String SHORTCUT_ID
+com.google.android.gms.internal.firebase-auth-api.zzgd: com.google.android.gms.internal.firebase-auth-api.zzgd zzb
+com.google.android.gms.internal.firebase-auth-api.zzgu: com.google.android.gms.internal.firebase-auth-api.zzgu zzb
+com.dexterous.flutterlocalnotifications.RuntimeTypeAdapterFactory: java.util.Map labelToSubtype
+io.flutter.view.AccessibilityBridge$Action: io.flutter.view.AccessibilityBridge$Action[] values()
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String MAX_PROGRESS
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Boolean enableLights
+androidx.room.RoomDatabase: RoomDatabase()
+com.google.android.gms.internal.firebase-auth-api.zzji: com.google.android.gms.internal.firebase-auth-api.zzji zzb
+com.dexterous.flutterlocalnotifications.SoundSource
+androidx.work.impl.utils.futures.AbstractFuture: androidx.work.impl.utils.futures.AbstractFuture$Waiter waiters
+org.threeten.bp.ZonedDateTime
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String HTML_FORMAT_TITLE
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String GROUP_KEY
+io.flutter.embedding.android.FlutterSplashView$SavedState: java.lang.String previousCompletedSplashIsolate
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: com.dexterous.flutterlocalnotifications.BitmapSource largeIconBitmapSource
+org.threeten.bp.chrono.JapaneseEra
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String LED_OFF_MS
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void setBigTextStyle(com.dexterous.flutterlocalnotifications.models.NotificationDetails,androidx.core.app.NotificationCompat$Builder)
+com.google.firebase.provider.FirebaseInitProvider: FirebaseInitProvider()
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String AUTO_CANCEL
+com.google.android.gms.internal.firebase-auth-api.zziq: int zzh
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String groupKey
+com.google.gson.LongSerializationPolicy: com.google.gson.LongSerializationPolicy valueOf(java.lang.String)
+com.google.android.exoplayer2.metadata.id3.TextInformationFrame: android.os.Parcelable$Creator CREATOR
+androidx.concurrent.futures.AbstractResolvableFuture: androidx.concurrent.futures.AbstractResolvableFuture$Listener listeners
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: void readInboxStyleInformation(com.dexterous.flutterlocalnotifications.models.NotificationDetails,java.util.Map,com.dexterous.flutterlocalnotifications.models.styles.DefaultStyleInformation)
+org.threeten.bp.zone.Ser: java.lang.Object readResolve()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void removeNotificationFromCache(android.content.Context,java.lang.Integer)
+com.absolute.habits.MainActivity
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void setBigPictureStyle(android.content.Context,com.dexterous.flutterlocalnotifications.models.NotificationDetails,androidx.core.app.NotificationCompat$Builder)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String DELETE_NOTIFICATION_CHANNEL_METHOD
+com.google.android.gms.internal.firebase-auth-api.zzgj
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String MESSAGES
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Integer ledColor
+io.flutter.embedding.engine.FlutterJNI: boolean loadLibraryCalled
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack$FlutterMutatorType: io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack$FlutterMutatorType[] values()
+android.support.v4.media.AudioAttributesImplApi26Parcelizer
+com.google.android.gms.internal.firebase-auth-api.zziq
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String LINES
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: void readLargeIconInformation(com.dexterous.flutterlocalnotifications.models.NotificationDetails,java.util.Map)
+androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+com.dexterous.flutterlocalnotifications.models.styles.MessagingStyleInformation: java.util.ArrayList messages
+com.google.android.exoplayer2.decoder.Buffer: boolean hasSupplementalData()
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String SOUND
+org.threeten.bp.Duration: java.lang.Object readResolve()
+com.google.android.gms.internal.firebase-auth-api.zzxu: android.os.Parcelable$Creator CREATOR
+com.dexterous.flutterlocalnotifications.NotificationStyle: com.dexterous.flutterlocalnotifications.NotificationStyle Default
+io.flutter.plugin.platform.SingleViewPresentation: io.flutter.plugin.platform.SingleViewPresentation$PresentationState detachState()
+com.google.firebase.auth.internal.zzr: android.os.Parcelable$Creator CREATOR
+org.threeten.bp.LocalDateTime: java.lang.Object writeReplace()
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Boolean autoCancel
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String sound
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Long when
+com.google.android.gms.internal.firebase-auth-api.zzfu: int zze
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsEmoji(int)
+io.flutter.embedding.engine.FlutterJNI: void runBundleAndSnapshotFromLibrary(java.lang.String,java.lang.String,java.lang.String,android.content.res.AssetManager)
+androidx.work.impl.background.systemjob.SystemJobService: SystemJobService()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: long calculateNextNotificationTrigger(long,long)
+com.dexterous.flutterlocalnotifications.ScheduledNotificationReceiver: ScheduledNotificationReceiver()
+androidx.media.AudioAttributesCompat: AudioAttributesCompat()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void rescheduleNotifications(android.content.Context)
+com.google.gson.FieldNamingPolicy: com.google.gson.FieldNamingPolicy valueOf(java.lang.String)
+com.dexterous.flutterlocalnotifications.SoundSource: com.dexterous.flutterlocalnotifications.SoundSource[] values()
+io.flutter.embedding.engine.FlutterJNI: void detachFromNativeAndReleaseResources()
+com.dexterous.flutterlocalnotifications.models.styles.BigTextStyleInformation: java.lang.String contentTitle
+com.google.android.gms.internal.firebase-auth-api.zzhj: com.google.android.gms.internal.firebase-auth-api.zzyu zzg
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void getNotificationAppLaunchDetails(io.flutter.plugin.common.MethodChannel$Result)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: boolean hasInvalidRawSoundResource(io.flutter.plugin.common.MethodChannel$Result,com.dexterous.flutterlocalnotifications.models.NotificationDetails)
+androidx.work.ListenableWorker: ListenableWorker(android.content.Context,androidx.work.WorkerParameters)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String GET_ACTIVE_NOTIFICATIONS_METHOD
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: android.content.Context applicationContext
+com.google.android.gms.internal.firebase-auth-api.zzht: com.google.android.gms.internal.firebase-auth-api.zzyu zzg
+com.dexterous.flutterlocalnotifications.models.styles.BigPictureStyleInformation: java.lang.Boolean hideExpandedLargeIcon
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Boolean channelShowBadge
+com.google.android.gms.internal.firebase-auth-api.zzgm: com.google.android.gms.internal.firebase-auth-api.zzgm zzb
+com.dexterous.flutterlocalnotifications.NotificationStyle
+com.dexterous.flutterlocalnotifications.RepeatInterval: com.dexterous.flutterlocalnotifications.RepeatInterval Hourly
+com.google.android.gms.common.ConnectionResult: android.os.Parcelable$Creator CREATOR
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String PLAY_SOUND
+com.google.firebase.auth.FirebaseAuth: com.google.firebase.auth.FirebaseAuth getInstance(com.google.firebase.FirebaseApp)
+com.dexterous.flutterlocalnotifications.models.IconSource: com.dexterous.flutterlocalnotifications.models.IconSource ContentUri
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.util.ArrayList readMessages(java.util.ArrayList)
+io.flutter.embedding.engine.FlutterJNI: void nativeDispatchPointerDataPacket(long,java.nio.ByteBuffer,int)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.util.ArrayList loadScheduledNotifications(android.content.Context)
+io.flutter.view.AccessibilityViewEmbedder: java.util.Map originToFlutterId
+com.dexterous.flutterlocalnotifications.models.NotificationChannelGroupDetails: java.lang.String description
+com.google.android.gms.internal.firebase-auth-api.zzfl
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean needsSave
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: void readStyleInformation(com.dexterous.flutterlocalnotifications.models.NotificationDetails,java.util.Map)
+io.flutter.embedding.engine.FlutterJNI: void asyncWaitForVsync(long)
+org.threeten.bp.format.ResolverStyle: org.threeten.bp.format.ResolverStyle valueOf(java.lang.String)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void scheduleNextRepeatingNotification(android.content.Context,com.dexterous.flutterlocalnotifications.models.NotificationDetails)
+io.flutter.embedding.engine.plugins.lifecycle.HiddenLifecycleReference: HiddenLifecycleReference(androidx.lifecycle.Lifecycle)
+com.google.android.exoplayer2.video.VideoDecoderOutputBuffer: boolean isSafeToMultiply(int,int)
+com.google.android.exoplayer2.Format: android.os.Parcelable$Creator CREATOR
+androidx.fragment.app.FragmentState: android.os.Parcelable$Creator CREATOR
+androidx.core.app.CoreComponentFactory: CoreComponentFactory()
+com.google.android.gms.internal.firebase-auth-api.zzie: com.google.android.gms.internal.firebase-auth-api.zzyu zzf
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String ONGOING
+com.google.firebase.auth.internal.zzx: android.os.Parcelable$Creator CREATOR
+com.dexterous.flutterlocalnotifications.NotificationStyle: NotificationStyle(java.lang.String,int)
+com.dexterous.flutterlocalnotifications.SoundSource: com.dexterous.flutterlocalnotifications.SoundSource valueOf(java.lang.String)
+org.threeten.bp.Ser: java.lang.Object readResolve()
+org.threeten.bp.format.DateTimeFormatterBuilder$SettingsParser: org.threeten.bp.format.DateTimeFormatterBuilder$SettingsParser[] values()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: com.google.gson.Gson gson
+com.dexterous.flutterlocalnotifications.models.styles.BigPictureStyleInformation: java.lang.Boolean htmlFormatContentTitle
+com.google.android.gms.internal.firebase-auth-api.zzie: com.google.android.gms.internal.firebase-auth-api.zzie zzb
+org.threeten.bp.chrono.MinguoChronology
+io.flutter.embedding.engine.FlutterJNI: android.os.Looper mainLooper
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPostResumed(android.app.Activity)
+org.threeten.bp.Period: java.lang.Object readResolve()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void repeatNotification(android.content.Context,com.dexterous.flutterlocalnotifications.models.NotificationDetails,java.lang.Boolean)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String HTML_FORMAT_LINES
+com.google.android.gms.internal.firebase-auth-api.zzfo: int zzf
+androidx.room.RoomDatabase$JournalMode: androidx.room.RoomDatabase$JournalMode[] values()
+androidx.work.impl.workers.ConstraintTrackingWorker: ConstraintTrackingWorker(android.content.Context,androidx.work.WorkerParameters)
+io.flutter.embedding.android.FlutterSplashView$SavedState: android.os.Bundle splashScreenState
+androidx.media.AudioAttributesImplApi26Parcelizer
+io.flutter.plugins.firebase.core.FlutterFirebasePluginRegistry
+io.flutter.view.AccessibilityViewEmbedder: AccessibilityViewEmbedder(android.view.View,int)
+androidx.work.ExistingPeriodicWorkPolicy: androidx.work.ExistingPeriodicWorkPolicy[] values()
+io.flutter.embedding.engine.FlutterJNI: void nativeLoadDartDeferredLibrary(long,int,java.lang.String[])
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String channelId
+io.flutter.view.AccessibilityViewEmbedder: android.view.View platformViewOfNode(int)
+io.flutter.embedding.engine.FlutterJNI: java.lang.Long nativeShellHolderId
+org.threeten.bp.MonthDay
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean access$302(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback,boolean)
+androidx.activity.ImmLeaksCleaner
+com.google.android.exoplayer2.video.VideoDecoderOutputBuffer: int colorspace
+com.dexterous.flutterlocalnotifications.models.NotificationChannelGroupDetails: java.lang.String ID
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.Boolean enableVibration
+com.google.android.gms.internal.firebase-auth-api.zzfr
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String CREATE_NOTIFICATION_CHANNEL_METHOD
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String DATA_MIME_TYPE
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String subText
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String ICON
+com.google.android.gms.internal.firebase-auth-api.zzfl: com.google.android.gms.internal.firebase-auth-api.zzfl zzb
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: java.util.List mutators
+androidx.core.graphics.drawable.IconCompatParcelizer: androidx.core.graphics.drawable.IconCompat read(androidx.versionedparcelable.VersionedParcel)
+com.dexterous.flutterlocalnotifications.models.styles.MessagingStyleInformation: java.lang.Boolean groupConversation
+com.dexterous.flutterlocalnotifications.models.ScheduledNotificationRepeatFrequency: com.dexterous.flutterlocalnotifications.models.ScheduledNotificationRepeatFrequency[] values()
+androidx.work.impl.WorkManagerInitializer: WorkManagerInitializer()
+com.google.android.gms.internal.firebase-auth-api.zzha
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: com.google.gson.Gson buildGson()
+io.flutter.view.AccessibilityViewEmbedder: void cacheVirtualIdMappings(android.view.View,int,int)
+com.google.android.gms.dynamite.DynamiteModule$DynamiteLoaderClassLoader: java.lang.ClassLoader sClassLoader
+org.threeten.bp.chrono.HijrahDate
+org.threeten.bp.chrono.ChronoLocalDateTimeImpl
+androidx.browser.browseractions.BrowserActionsFallbackMenuView: BrowserActionsFallbackMenuView(android.content.Context,android.util.AttributeSet)
+com.google.android.exoplayer2.decoder.Buffer: int flags
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String CHANNEL_NAME
+org.threeten.bp.chrono.ThaiBuddhistDate: java.lang.Object writeReplace()
+com.dexterous.flutterlocalnotifications.models.PersonDetails: java.lang.String uri
+com.google.android.gms.internal.firebase-auth-api.zzim: int zzg
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event[] $VALUES
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String groupId
+org.threeten.bp.temporal.ChronoUnit: org.threeten.bp.temporal.ChronoUnit valueOf(java.lang.String)
+com.dexterous.flutterlocalnotifications.models.styles.BigTextStyleInformation: java.lang.String bigText
+androidx.work.impl.workers.CombineContinuationsWorker: CombineContinuationsWorker(android.content.Context,androidx.work.WorkerParameters)
+com.google.android.gms.internal.firebase-auth-api.zzni: android.os.Parcelable$Creator CREATOR
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: com.dexterous.flutterlocalnotifications.models.NotificationChannelAction channelAction
+org.threeten.bp.chrono.JapaneseDate
+androidx.lifecycle.SingleGeneratedAdapterObserver
+be.tramckrijte.workmanager.TaskType: be.tramckrijte.workmanager.TaskType valueOf(java.lang.String)
+com.google.android.gms.internal.firebase-auth-api.zzhj: int zze
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String GET_NOTIFICATION_CHANNELS_METHOD
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String SOUND_SOURCE
+com.google.android.gms.internal.firebase-auth-api.zzht: int zze
+com.dexterous.flutterlocalnotifications.models.ScheduledNotificationRepeatFrequency
+com.google.android.gms.internal.firebase-auth-api.zzeq: com.google.android.gms.internal.firebase-auth-api.zzeq zzb
+androidx.work.Worker: Worker(android.content.Context,androidx.work.WorkerParameters)
+com.dexterous.flutterlocalnotifications.models.Time: java.lang.Integer second
+io.flutter.embedding.engine.FlutterJNI: void onSurfaceDestroyed()
+androidx.work.impl.background.systemalarm.RescheduleReceiver: RescheduleReceiver()
+io.flutter.plugins.GeneratedPluginRegistrant
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void initialize(io.flutter.plugin.common.MethodCall,io.flutter.plugin.common.MethodChannel$Result)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: void readBigTextStyleInformation(com.dexterous.flutterlocalnotifications.models.NotificationDetails,java.util.Map,com.dexterous.flutterlocalnotifications.models.styles.DefaultStyleInformation)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback animationCallback
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void getNotificationChannels(io.flutter.plugin.common.MethodChannel$Result)
+androidx.media.AudioAttributesImplApi26Parcelizer: androidx.media.AudioAttributesImplApi26 read(androidx.versionedparcelable.VersionedParcel)
+android.support.v4.media.RatingCompat
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: android.app.Activity mainActivity
+com.google.android.exoplayer2.metadata.scte35.SpliceNullCommand: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.firebase-auth-api.zzmy: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.firebase-auth-api.zzmk: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.firebase-auth-api.zzen: com.google.android.gms.internal.firebase-auth-api.zzyu zzf
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void setSmallIcon(android.content.Context,com.dexterous.flutterlocalnotifications.models.NotificationDetails,androidx.core.app.NotificationCompat$Builder)
+androidx.work.impl.utils.futures.DirectExecutor: androidx.work.impl.utils.futures.DirectExecutor[] values()
+com.google.android.gms.internal.firebase-auth-api.zzhz
+com.google.android.gms.common.api.GoogleApiActivity
+com.google.android.gms.common.internal.GetServiceRequest: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.FlutterOverlaySurface
+com.google.android.gms.internal.firebase-auth-api.zzen
+io.flutter.embedding.android.FlutterSurfaceView
+android.support.v4.media.session.MediaSessionCompat$Token
+com.dexterous.flutterlocalnotifications.models.NotificationChannelAction: com.dexterous.flutterlocalnotifications.models.NotificationChannelAction CreateIfNotExists
+com.google.android.gms.internal.firebase-auth-api.zzww: android.os.Parcelable$Creator CREATOR
+com.dexterous.flutterlocalnotifications.models.NotificationChannelAction
+com.dexterous.flutterlocalnotifications.models.styles.BigPictureStyleInformation: java.lang.Boolean htmlFormatSummaryText
+com.dexterous.flutterlocalnotifications.RuntimeTypeAdapterFactory: com.dexterous.flutterlocalnotifications.RuntimeTypeAdapterFactory registerSubtype(java.lang.Class)
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterJNI nativeSpawn(long,java.lang.String,java.lang.String)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityStopped(android.app.Activity)
+androidx.loader.content.ModernAsyncTask$Status: androidx.loader.content.ModernAsyncTask$Status valueOf(java.lang.String)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String LED_ON_MS
+com.google.android.gms.internal.firebase-auth-api.zzim: java.lang.String zzf
+com.dexterous.flutterlocalnotifications.models.IconSource: com.dexterous.flutterlocalnotifications.models.IconSource[] values()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void showNotification(android.content.Context,com.dexterous.flutterlocalnotifications.models.NotificationDetails)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String PAYLOAD
+com.dexterous.flutterlocalnotifications.models.styles.BigTextStyleInformation: java.lang.Boolean htmlFormatSummaryText
+android.support.v4.media.session.PlaybackStateCompat: android.os.Parcelable$Creator CREATOR
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void scheduleNotification(android.content.Context,com.dexterous.flutterlocalnotifications.models.NotificationDetails,java.lang.Boolean)
+org.threeten.bp.LocalDate: java.lang.Object readResolve()
+com.google.firebase.auth.UserProfileChangeRequest: android.os.Parcelable$Creator CREATOR
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String LED_COLOR_ALPHA
+io.flutter.embedding.engine.FlutterJNI: boolean getIsSoftwareRenderingEnabled()
+com.dexterous.flutterlocalnotifications.models.MessageDetails: java.lang.String dataUri
+androidx.core.graphics.drawable.IconCompat: IconCompat()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback: ImeSyncDeferringInsetsCallback$AnimationCallback(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+com.google.android.gms.internal.firebase-auth-api.zzjc: java.lang.String zze
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: android.graphics.SurfaceTexture surfaceTexture
+com.google.android.exoplayer2.metadata.id3.MlltFrame: android.os.Parcelable$Creator CREATOR
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void setSound(android.content.Context,com.dexterous.flutterlocalnotifications.models.NotificationDetails,androidx.core.app.NotificationCompat$Builder)
+androidx.core.app.RemoteActionCompatParcelizer: androidx.core.app.RemoteActionCompat read(androidx.versionedparcelable.VersionedParcel)
+androidx.work.impl.utils.futures.AbstractFuture: java.lang.Object value
+org.threeten.bp.chrono.JapaneseDate: java.lang.Object writeReplace()
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void updateTexImage()
+androidx.lifecycle.ViewModel: ViewModel()
+com.google.android.gms.internal.firebase-auth-api.zzfc: com.google.android.gms.internal.firebase-auth-api.zzfi zzf
+com.google.android.gms.internal.firebase-auth-api.zzgp
+androidx.work.impl.utils.futures.AbstractFuture$Waiter: androidx.work.impl.utils.futures.AbstractFuture$Waiter next
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: int getDrawableResourceId(android.content.Context,java.lang.String)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: boolean onNewIntent(android.content.Intent)
+io.flutter.embedding.android.FlutterTextureView: io.flutter.embedding.engine.renderer.FlutterRenderer getAttachedRenderer()
+com.google.android.gms.internal.firebase-auth-api.zzez: com.google.android.gms.internal.firebase-auth-api.zzez zzb
+com.dexterous.flutterlocalnotifications.models.ScheduledNotificationRepeatFrequency: com.dexterous.flutterlocalnotifications.models.ScheduledNotificationRepeatFrequency[] $VALUES
+com.google.android.gms.safetynet.zzd: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.firebase-auth-api.zzgm
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Long parseLong(java.lang.Object)
+com.dexterous.flutterlocalnotifications.BitmapSource: com.dexterous.flutterlocalnotifications.BitmapSource[] values()
+android.support.v4.media.MediaBrowserCompat$CustomActionResultReceiver
+com.dexterous.flutterlocalnotifications.models.styles.InboxStyleInformation
+androidx.versionedparcelable.ParcelImpl: android.os.Parcelable$Creator CREATOR
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: void readChannelInformation(com.dexterous.flutterlocalnotifications.models.NotificationDetails,java.util.Map)
+com.google.android.gms.internal.firebase-auth-api.zzhj: int zzf
+org.threeten.bp.chrono.ChronoZonedDateTimeImpl: java.lang.Object readResolve()
+io.flutter.embedding.engine.FlutterJNI: void setLocalizationPlugin(io.flutter.plugin.localization.LocalizationPlugin)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: boolean hasInvalidIcon(io.flutter.plugin.common.MethodChannel$Result,java.lang.String)
+androidx.lifecycle.CompositeGeneratedAdaptersObserver
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: void install()
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String ENABLE_VIBRATION
+com.dexterous.flutterlocalnotifications.RuntimeTypeAdapterFactory
+io.flutter.embedding.engine.FlutterJNI: void updateSemantics(java.nio.ByteBuffer,java.lang.String[])
+com.google.android.gms.internal.firebase-auth-api.zzht
+org.threeten.bp.temporal.IsoFields$Unit: org.threeten.bp.temporal.IsoFields$Unit valueOf(java.lang.String)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: void readColor(com.dexterous.flutterlocalnotifications.models.NotificationDetails,java.util.Map)
+com.google.android.gms.dynamite.descriptors.com.google.firebase.auth.ModuleDescriptor: int MODULE_VERSION
+android.support.v4.media.MediaBrowserCompat$ItemReceiver
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: int[] additionalFlags
+org.threeten.bp.chrono.JapaneseEra: java.lang.Object readResolve()
+android.support.v4.app.RemoteActionCompatParcelizer: RemoteActionCompatParcelizer()
+org.threeten.bp.chrono.HijrahDate: java.lang.Object writeReplace()
+androidx.core.app.RemoteActionCompatParcelizer: void write(androidx.core.app.RemoteActionCompat,androidx.versionedparcelable.VersionedParcel)
+io.flutter.view.AccessibilityBridge$AccessibilityFeature: io.flutter.view.AccessibilityBridge$AccessibilityFeature[] values()
+com.google.android.exoplayer2.metadata.id3.ChapterTocFrame: android.os.Parcelable$Creator CREATOR
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: com.dexterous.flutterlocalnotifications.models.NotificationChannelAction channelAction
+com.dexterous.flutterlocalnotifications.SoundSource: com.dexterous.flutterlocalnotifications.SoundSource[] $VALUES
+androidx.work.impl.background.systemalarm.ConstraintProxy: ConstraintProxy()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: androidx.core.graphics.drawable.IconCompat getIconFromSource(android.content.Context,java.lang.String,com.dexterous.flutterlocalnotifications.models.IconSource)
+com.google.android.gms.internal.firebase-auth-api.zzho: com.google.android.gms.internal.firebase-auth-api.zziw zzf
+com.dexterous.flutterlocalnotifications.ScheduledNotificationBootReceiver: void onReceive(android.content.Context,android.content.Intent)
+androidx.media.AudioAttributesImplApi26
+com.google.firebase.auth.internal.zzae: android.os.Parcelable$Creator CREATOR
+com.google.gson.LongSerializationPolicy: com.google.gson.LongSerializationPolicy[] values()
+io.flutter.embedding.engine.FlutterJNI: void deferredComponentInstallFailure(int,java.lang.String,boolean)
+org.threeten.bp.chrono.MinguoDate
+com.google.android.exoplayer2.metadata.id3.ChapterFrame: android.os.Parcelable$Creator CREATOR
+io.flutter.view.AccessibilityViewEmbedder: java.lang.String TAG
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void onReattachedToActivityForConfigChanges(io.flutter.embedding.engine.plugins.activity.ActivityPluginBinding)
+io.flutter.embedding.android.FlutterSplashView$SavedState: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.firebase-auth-api.zzzt
+io.flutter.view.AccessibilityViewEmbedder: boolean requestSendAccessibilityEvent(android.view.View,android.view.View,android.view.accessibility.AccessibilityEvent)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String DEFAULT_ICON
+com.google.android.gms.internal.firebase-auth-api.zzhg: com.google.android.gms.internal.firebase-auth-api.zzhg zzb
+com.google.android.gms.internal.firebase-auth-api.zzet: com.google.android.gms.internal.firebase-auth-api.zzet zzb
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPaused(android.app.Activity)
+com.google.android.gms.internal.firebase-auth-api.zzms: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.firebase-auth-api.zzga: com.google.android.gms.internal.firebase-auth-api.zzga zzb
+com.google.android.gms.internal.firebase-auth-api.zzfl: com.google.android.gms.internal.firebase-auth-api.zzfr zzf
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Integer ledOffMs
+com.dexterous.flutterlocalnotifications.RepeatInterval: com.dexterous.flutterlocalnotifications.RepeatInterval EveryMinute
+com.dexterous.flutterlocalnotifications.RepeatInterval: com.dexterous.flutterlocalnotifications.RepeatInterval[] $VALUES
+android.support.v4.media.AudioAttributesImplApi26Parcelizer: void write(androidx.media.AudioAttributesImplApi26,androidx.versionedparcelable.VersionedParcel)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String title
+androidx.work.ExistingWorkPolicy: androidx.work.ExistingWorkPolicy[] values()
+com.google.android.gms.internal.firebase-auth-api.zzhw: int zzg
+io.flutter.embedding.android.FlutterSplashView$SavedState: FlutterSplashView$SavedState(android.os.Parcel)
+com.google.android.gms.internal.firebase-auth-api.zzir: com.google.android.gms.internal.firebase-auth-api.zzir zzb
+com.google.android.gms.common.internal.ReflectedParcelable
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack$FlutterMutatorType: io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack$FlutterMutatorType valueOf(java.lang.String)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: com.dexterous.flutterlocalnotifications.models.PersonDetails readPersonDetails(java.util.Map)
+androidx.work.BackoffPolicy: androidx.work.BackoffPolicy valueOf(java.lang.String)
+com.google.android.gms.internal.firebase-auth-api.zzhz: int zze
+com.google.android.gms.internal.firebase-auth-api.zzxo: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.FlutterJNI: void nativeUpdateJavaAssetManager(long,android.content.res.AssetManager,java.lang.String)
+com.dexterous.flutterlocalnotifications.NotificationStyle: com.dexterous.flutterlocalnotifications.NotificationStyle Inbox
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean access$300(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+io.flutter.embedding.engine.FlutterJNI: void prefetchDefaultFontManager()
+io.flutter.embedding.android.RenderMode: io.flutter.embedding.android.RenderMode valueOf(java.lang.String)
+com.google.android.gms.internal.firebase-auth-api.zziv
+com.google.android.exoplayer2.video.VideoDecoderOutputBuffer: int mode
+org.threeten.bp.LocalDateTime: java.lang.Object readResolve()
+io.flutter.embedding.engine.FlutterJNI: void setRefreshRateFPS(float)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPrePaused(android.app.Activity)
+com.google.android.exoplayer2.video.VideoDecoderOutputBuffer: int decoderPrivate
+com.google.android.exoplayer2.video.VideoDecoderOutputBuffer: int COLORSPACE_BT2020
+com.dexterous.flutterlocalnotifications.models.IconSource: com.dexterous.flutterlocalnotifications.models.IconSource FlutterBitmapAsset
+android.support.v4.os.ResultReceiver: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.FlutterJNI: void destroyOverlaySurfaces()
+io.flutter.embedding.android.FlutterSplashView$SavedState: void writeToParcel(android.os.Parcel,int)
+com.google.android.exoplayer2.video.VideoDecoderOutputBuffer: com.google.android.exoplayer2.decoder.OutputBuffer$Owner owner
+com.google.android.gms.internal.firebase-auth-api.zzzw: java.util.Map zzb
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void setVibrationPattern(com.dexterous.flutterlocalnotifications.models.NotificationDetails,androidx.core.app.NotificationCompat$Builder)
+io.flutter.plugin.platform.SingleViewPresentation: io.flutter.plugin.platform.AccessibilityEventsDelegate accessibilityEventsDelegate
+io.flutter.embedding.engine.FlutterJNI: boolean isAttached()
+com.google.android.gms.internal.firebase-auth-api.zzig: com.google.android.gms.internal.firebase-auth-api.zzig[] values()
+com.dexterous.flutterlocalnotifications.BitmapSource: com.dexterous.flutterlocalnotifications.BitmapSource DrawableResource
+org.threeten.bp.Year: java.lang.Object readResolve()
+com.google.android.exoplayer2.decoder.Buffer: boolean isDecodeOnly()
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Integer ledOnMs
+org.threeten.bp.Month: org.threeten.bp.Month[] values()
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String BIG_PICTURE_BITMAP_SOURCE
+com.google.android.gms.internal.firebase-auth-api.zzzw: int zzd
+androidx.lifecycle.Lifecycle$State: androidx.lifecycle.Lifecycle$State valueOf(java.lang.String)
+com.google.android.gms.internal.firebase-auth-api.zzhd: com.google.android.gms.internal.firebase-auth-api.zzhd zzb
+org.threeten.bp.OffsetDateTime: java.lang.Object readResolve()
+com.google.android.exoplayer2.source.hls.HlsTrackMetadataEntry$VariantInfo: android.os.Parcelable$Creator CREATOR
+io.flutter.view.AccessibilityBridge$AccessibilityFeature: io.flutter.view.AccessibilityBridge$AccessibilityFeature valueOf(java.lang.String)
+androidx.work.impl.diagnostics.DiagnosticsReceiver
+org.threeten.bp.ZoneRegion
+android.support.v4.media.session.PlaybackStateCompat
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String SHOW_PROGRESS
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: com.dexterous.flutterlocalnotifications.models.NotificationDetails extractNotificationDetails(io.flutter.plugin.common.MethodChannel$Result,java.util.Map)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityResumed(android.app.Activity)
+io.flutter.embedding.engine.FlutterJNI: void setPlatformMessageHandler(io.flutter.embedding.engine.dart.PlatformMessageHandler)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String NOTIFICATION_LAUNCHED_APP
+com.google.android.gms.internal.firebase-auth-api.zzgx: com.google.android.gms.internal.firebase-auth-api.zzha zze
+com.google.android.gms.internal.firebase-auth-api.zzgm: com.google.android.gms.internal.firebase-auth-api.zzyu zzf
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorView
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String HTML_FORMAT_CONTENT_TITLE
+io.flutter.view.AccessibilityViewEmbedder: io.flutter.view.AccessibilityViewEmbedder$ReflectionAccessors reflectionAccessors
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_ANY
+com.google.android.gms.internal.firebase-auth-api.zzhg: com.google.android.gms.internal.firebase-auth-api.zzyu zzh
+io.flutter.embedding.android.FlutterTextureView
+io.flutter.embedding.engine.FlutterJNI: void nativeSurfaceWindowChanged(long,android.view.Surface)
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String LED_COLOR_ALPHA
+com.dexterous.flutterlocalnotifications.models.IconSource: com.dexterous.flutterlocalnotifications.models.IconSource BitmapFilePath
+org.threeten.bp.chrono.HijrahChronology: java.lang.Object readResolve()
+io.flutter.embedding.android.FlutterView$ZeroSides: io.flutter.embedding.android.FlutterView$ZeroSides valueOf(java.lang.String)
+io.flutter.plugins.GeneratedPluginRegistrant: GeneratedPluginRegistrant()
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String CHANNEL_ACTION
+androidx.work.BackoffPolicy: androidx.work.BackoffPolicy[] values()
+io.flutter.embedding.engine.FlutterJNI: void nativeSetViewportMetrics(long,float,int,int,int,int,int,int,int,int,int,int,int,int,int,int)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String BIG_PICTURE
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void saveScheduledNotification(android.content.Context,com.dexterous.flutterlocalnotifications.models.NotificationDetails)
+org.threeten.bp.zone.ZoneOffsetTransitionRule: java.lang.Object writeReplace()
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Integer color
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String ENABLE_VIBRATION
+org.threeten.bp.YearMonth
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String PLAY_SOUND
+org.threeten.bp.zone.ZoneOffsetTransition
+be.tramckrijte.workmanager.TaskType: be.tramckrijte.workmanager.TaskType[] values()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String INVALID_ICON_ERROR_CODE
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String HTML_FORMAT_BIG_TEXT
+com.google.android.gms.internal.firebase-auth-api.zzmi: android.os.Parcelable$Creator CREATOR
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_STOP
+com.google.android.gms.internal.firebase-auth-api.zzff: com.google.android.gms.internal.firebase-auth-api.zzfi zze
+com.google.android.exoplayer2.extractor.mp4.MdtaMetadataEntry: android.os.Parcelable$Creator CREATOR
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean access$202(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback,boolean)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String LED_COLOR_RED
+io.flutter.embedding.engine.FlutterJNI: java.lang.String observatoryUri
+com.dexterous.flutterlocalnotifications.models.DateTimeComponents: com.dexterous.flutterlocalnotifications.models.DateTimeComponents[] $VALUES
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Boolean usesChronometer
+org.threeten.bp.ZoneRegion: java.lang.Object writeReplace()
+io.flutter.view.FlutterCallbackInformation
+com.dexterous.flutterlocalnotifications.models.styles.MessagingStyleInformation: MessagingStyleInformation(com.dexterous.flutterlocalnotifications.models.PersonDetails,java.lang.String,java.lang.Boolean,java.util.ArrayList,java.lang.Boolean,java.lang.Boolean)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: android.app.Notification createNotification(android.content.Context,com.dexterous.flutterlocalnotifications.models.NotificationDetails)
+com.dexterous.flutterlocalnotifications.RuntimeTypeAdapterFactory: java.util.Map access$200(com.dexterous.flutterlocalnotifications.RuntimeTypeAdapterFactory)
+io.flutter.embedding.android.FlutterSplashView$SavedState: java.lang.String access$602(io.flutter.embedding.android.FlutterSplashView$SavedState,java.lang.String)
+androidx.loader.content.ModernAsyncTask$Status: androidx.loader.content.ModernAsyncTask$Status[] values()
+io.flutter.embedding.android.FlutterActivityLaunchConfigs$BackgroundMode: io.flutter.embedding.android.FlutterActivityLaunchConfigs$BackgroundMode[] values()
+androidx.concurrent.futures.AbstractResolvableFuture$Waiter: androidx.concurrent.futures.AbstractResolvableFuture$Waiter next
+androidx.core.app.RemoteActionCompat: RemoteActionCompat()
+com.dexterous.flutterlocalnotifications.utils.BooleanUtils: BooleanUtils()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.WindowInsets access$400(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService
+com.google.firebase.auth.zze: android.os.Parcelable$Creator CREATOR
+be.tramckrijte.workmanager.BackgroundWorker
+io.flutter.view.FlutterCallbackInformation: java.lang.String callbackLibraryPath
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.Boolean playSound
+android.support.v4.media.AudioAttributesImplApi21Parcelizer: androidx.media.AudioAttributesImplApi21 read(androidx.versionedparcelable.VersionedParcel)
+com.google.android.gms.internal.firebase-auth-api.zzfu: com.google.android.gms.internal.firebase-auth-api.zzyu zzf
+com.google.android.gms.internal.firebase-auth-api.zziq: com.google.android.gms.internal.firebase-auth-api.zzie zze
+com.google.android.gms.internal.firebase-auth-api.zzha: com.google.android.gms.internal.firebase-auth-api.zzha zzb
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String SHOW_BADGE
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String PERIODICALLY_SHOW_METHOD
+com.dexterous.flutterlocalnotifications.RepeatInterval: com.dexterous.flutterlocalnotifications.RepeatInterval[] values()
+android.support.v4.media.AudioAttributesImplApi26Parcelizer: AudioAttributesImplApi26Parcelizer()
+com.google.android.gms.internal.firebase-auth-api.zzhj: com.google.android.gms.internal.firebase-auth-api.zzhj zzb
+org.threeten.bp.chrono.JapaneseDate: void readObject(java.io.ObjectInputStream)
+com.dexterous.flutterlocalnotifications.models.styles.InboxStyleInformation: java.lang.String contentTitle
+com.google.android.gms.internal.firebase-auth-api.zzno: android.os.Parcelable$Creator CREATOR
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Integer visibility
+com.dexterous.flutterlocalnotifications.models.NotificationChannelGroupDetails: NotificationChannelGroupDetails()
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String COLOR_GREEN
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void onAttachedToActivity(io.flutter.embedding.engine.plugins.activity.ActivityPluginBinding)
+com.google.android.gms.internal.firebase-auth-api.zzhg
+io.flutter.embedding.engine.FlutterJNI: void nativeRunBundleAndSnapshotFromLibrary(long,java.lang.String,java.lang.String,java.lang.String,android.content.res.AssetManager)
+org.threeten.bp.chrono.HijrahEra: org.threeten.bp.chrono.HijrahEra valueOf(java.lang.String)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Boolean fullScreenIntent
+com.google.android.gms.internal.firebase-auth-api.zzim: java.lang.String zze
+io.flutter.plugins.GeneratedPluginRegistrant: void registerWith(io.flutter.embedding.engine.FlutterEngine)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String SCHEDULED_NOTIFICATION_REPEAT_FREQUENCY
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.dart.PlatformMessageHandler platformMessageHandler
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String INITIALIZE_METHOD
+androidx.work.impl.workers.ConstraintTrackingWorker
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: com.dexterous.flutterlocalnotifications.models.styles.DefaultStyleInformation getDefaultStyleInformation(java.util.Map)
+io.flutter.view.AccessibilityViewEmbedder: android.view.View rootAccessibilityView
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: boolean launchedActivityFromHistory(android.content.Intent)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void onMethodCall(io.flutter.plugin.common.MethodCall,io.flutter.plugin.common.MethodChannel$Result)
+com.dexterous.flutterlocalnotifications.ScheduledNotificationReceiver
+io.flutter.embedding.engine.FlutterJNI: void nativeSurfaceCreated(long,android.view.Surface)
+com.google.android.gms.internal.firebase-auth-api.zzgu
+io.flutter.plugin.platform.SingleViewPresentation: io.flutter.plugin.platform.SingleViewPresentation$PresentationState state
+com.google.android.gms.internal.auth.zzay: com.google.android.gms.internal.auth.zzay[] values()
+androidx.core.app.ComponentActivity: ComponentActivity()
+org.threeten.bp.chrono.MinguoEra: java.lang.Object writeReplace()
+androidx.media.AudioAttributesCompatParcelizer: androidx.media.AudioAttributesCompat read(androidx.versionedparcelable.VersionedParcel)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String TEXT
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String GET_NOTIFICATION_CHANNELS_ERROR_CODE
+androidx.work.impl.background.systemjob.SystemJobService
+io.flutter.plugin.platform.SingleViewPresentation
+com.google.android.gms.internal.firebase-auth-api.zzjt: int zze
+com.google.android.gms.internal.firebase-auth-api.zzfx: int zze
+io.flutter.view.FlutterCallbackInformation: io.flutter.view.FlutterCallbackInformation lookupCallbackInformation(long)
+android.support.v4.media.MediaBrowserCompat$MediaItem
+androidx.work.impl.background.systemalarm.SystemAlarmService
+com.google.android.exoplayer2.video.VideoDecoderOutputBuffer: void release()
+com.google.android.gms.internal.firebase-auth-api.zzhw: int zzf
+io.flutter.embedding.engine.FlutterJNI: void nativeDispatchEmptyPlatformMessage(long,java.lang.String,int)
+com.dexterous.flutterlocalnotifications.BitmapSource: BitmapSource(java.lang.String,int)
+io.flutter.embedding.engine.FlutterJNI: void nativeSurfaceChanged(long,int,int)
+com.dexterous.flutterlocalnotifications.models.IconSource
+androidx.core.app.RemoteActionCompatParcelizer: RemoteActionCompatParcelizer()
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Integer progress
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String BIG_TEXT
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String GROUP_CONVERSATION
+org.threeten.bp.format.SignStyle: org.threeten.bp.format.SignStyle valueOf(java.lang.String)
+com.google.android.gms.internal.firebase-auth-api.zzfc: int zze
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_PAUSE
+com.google.firebase.auth.internal.zzp: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.firebase-auth-api.zzet
+com.google.android.gms.internal.firebase-auth-api.zzgj: int zzf
+org.threeten.bp.chrono.JapaneseChronology
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void deleteNotificationChannel(io.flutter.plugin.common.MethodCall,io.flutter.plugin.common.MethodChannel$Result)
+com.google.android.gms.auth.TokenData: android.os.Parcelable$Creator CREATOR
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String SHOW_METHOD
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String INVALID_SOUND_ERROR_CODE
+io.flutter.embedding.engine.FlutterJNI: void dispatchPointerDataPacket(java.nio.ByteBuffer,int)
+org.threeten.bp.OffsetTime: java.lang.Object writeReplace()
+io.flutter.plugin.platform.SingleViewPresentation: java.lang.Object createParams
+android.support.v4.media.AudioAttributesImplBaseParcelizer: void write(androidx.media.AudioAttributesImplBase,androidx.versionedparcelable.VersionedParcel)
+com.google.common.util.concurrent.AbstractFuture: com.google.common.util.concurrent.AbstractFuture$Listener listeners
+android.support.v4.media.MediaDescriptionCompat: android.os.Parcelable$Creator CREATOR
+androidx.work.impl.workers.DiagnosticsWorker: DiagnosticsWorker(android.content.Context,androidx.work.WorkerParameters)
+com.dexterous.flutterlocalnotifications.models.ScheduledNotificationRepeatFrequency: com.dexterous.flutterlocalnotifications.models.ScheduledNotificationRepeatFrequency Weekly
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void getActiveNotifications(io.flutter.plugin.common.MethodChannel$Result)
+com.dexterous.flutterlocalnotifications.models.MessageDetails: MessageDetails(java.lang.String,java.lang.Long,com.dexterous.flutterlocalnotifications.models.PersonDetails,java.lang.String,java.lang.String)
+com.google.android.gms.internal.firebase-auth-api.zzoa: android.os.Parcelable$Creator CREATOR
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback: android.view.WindowInsets onProgress(android.view.WindowInsets,java.util.List)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void onDetachedFromEngine(io.flutter.embedding.engine.plugins.FlutterPlugin$FlutterPluginBinding)
+com.google.android.exoplayer2.decoder.Buffer: Buffer()
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Long millisecondsSinceEpoch
+com.dexterous.flutterlocalnotifications.RuntimeTypeAdapterFactory: com.google.gson.TypeAdapter create(com.google.gson.Gson,com.google.gson.reflect.TypeToken)
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: long[] vibrationPattern
+io.flutter.plugins.firebase.core.FlutterFirebasePluginRegistry: FlutterFirebasePluginRegistry()
+com.google.android.gms.internal.firebase-auth-api.zznm: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.auth.api.signin.RevocationBoundService
+io.flutter.app.FlutterApplication: FlutterApplication()
+com.google.android.exoplayer2.video.VideoDecoderOutputBuffer: boolean initForYuvFrame(int,int,int,int,int)
+com.google.android.gms.internal.firebase-auth-api.zzna: android.os.Parcelable$Creator CREATOR
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String PLATFORM_SPECIFICS
+com.google.firebase.auth.TwitterAuthCredential: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.android.DrawableSplashScreen$DrawableSplashScreenView: void setSplashDrawable(android.graphics.drawable.Drawable)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String TIME_ZONE_NAME
+com.google.android.gms.internal.firebase-auth-api.zzez: com.google.android.gms.internal.firebase-auth-api.zzhw zzf
+io.flutter.plugins.firebase.core.FlutterFirebasePluginRegistry: java.util.Map registeredPlugins
+com.dexterous.flutterlocalnotifications.models.styles.InboxStyleInformation: InboxStyleInformation(java.lang.Boolean,java.lang.Boolean,java.lang.String,java.lang.Boolean,java.lang.String,java.lang.Boolean,java.util.ArrayList,java.lang.Boolean)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks
+com.google.android.exoplayer2.metadata.Metadata: android.os.Parcelable$Creator CREATOR
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String TICKER
+io.flutter.plugins.firebase.core.FlutterFirebasePlugin: com.google.android.gms.tasks.Task getPluginConstantsForFirebaseApp(com.google.firebase.FirebaseApp)
+io.flutter.plugin.platform.SingleViewPresentation: io.flutter.plugin.platform.PlatformViewFactory viewFactory
+com.google.android.gms.internal.firebase-auth-api.zzgr: com.google.android.gms.internal.firebase-auth-api.zzgr[] values()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityStarted(android.app.Activity)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: void readMessagingStyleInformation(com.dexterous.flutterlocalnotifications.models.NotificationDetails,java.util.Map,com.dexterous.flutterlocalnotifications.models.styles.DefaultStyleInformation)
+org.threeten.bp.chrono.ThaiBuddhistEra: java.lang.Object writeReplace()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Boolean enableVibration
+androidx.room.MultiInstanceInvalidationService: MultiInstanceInvalidationService()
+com.google.android.exoplayer2.source.TrackGroupArray: android.os.Parcelable$Creator CREATOR
+com.dexterous.flutterlocalnotifications.NotificationStyle: com.dexterous.flutterlocalnotifications.NotificationStyle Media
+io.flutter.embedding.engine.FlutterJNI: void onBeginFrame()
+com.google.android.gms.internal.firebase-auth-api.zzfl: com.google.android.gms.internal.firebase-auth-api.zzyu zzg
+io.flutter.plugin.platform.SingleViewPresentation: SingleViewPresentation(android.content.Context,android.view.Display,io.flutter.plugin.platform.PlatformViewFactory,io.flutter.plugin.platform.AccessibilityEventsDelegate,int,java.lang.Object,android.view.View$OnFocusChangeListener)
+com.dexterous.flutterlocalnotifications.RepeatInterval: RepeatInterval(java.lang.String,int)
+org.threeten.bp.OffsetTime
+com.google.android.gms.internal.firebase-auth-api.zzjc
+com.google.android.gms.internal.firebase-auth-api.zzgx
+com.google.android.exoplayer2.video.VideoDecoderOutputBuffer: int width
+com.google.android.gms.internal.firebase-auth-api.zziw: int zze
+org.threeten.bp.OffsetDateTime
+com.dexterous.flutterlocalnotifications.models.ScheduledNotificationRepeatFrequency: ScheduledNotificationRepeatFrequency(java.lang.String,int)
+com.google.android.gms.common.api.GoogleApiActivity: GoogleApiActivity()
+io.flutter.view.AccessibilityViewEmbedder: android.view.accessibility.AccessibilityNodeInfo getRootNode(android.view.View,int,android.graphics.Rect)
+com.dexterous.flutterlocalnotifications.models.NotificationChannelAction: NotificationChannelAction(java.lang.String,int)
+org.threeten.bp.ZoneOffset
+com.google.android.gms.internal.firebase-auth-api.zziz: com.google.android.gms.internal.firebase-auth-api.zziz zzb
+com.google.android.exoplayer2.video.VideoDecoderOutputBuffer: java.nio.ByteBuffer supplementalData
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void onDetachedFromActivityForConfigChanges()
+io.flutter.plugin.platform.SingleViewPresentation: SingleViewPresentation(android.content.Context,android.view.Display,io.flutter.plugin.platform.AccessibilityEventsDelegate,io.flutter.plugin.platform.SingleViewPresentation$PresentationState,android.view.View$OnFocusChangeListener,boolean)
+com.google.android.gms.internal.firebase-auth-api.zzfo: com.google.android.gms.internal.firebase-auth-api.zzfo zzb
+be.tramckrijte.workmanager.BackgroundWorker: BackgroundWorker(android.content.Context,androidx.work.WorkerParameters)
+io.flutter.embedding.engine.FlutterJNI: void nativeInvokePlatformMessageResponseCallback(long,int,java.nio.ByteBuffer,int)
+android.support.v4.media.AudioAttributesCompatParcelizer: androidx.media.AudioAttributesCompat read(androidx.versionedparcelable.VersionedParcel)
+com.google.android.gms.internal.firebase-auth-api.zzie: int zzg
+io.flutter.plugin.platform.SingleViewPresentation: android.view.View$OnFocusChangeListener focusChangeListener
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SoundType: io.flutter.embedding.engine.systemchannels.PlatformChannel$SoundType[] values()
+com.google.android.gms.safetynet.SafeBrowsingData: android.os.Parcelable$Creator CREATOR
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String ID
+io.flutter.embedding.engine.FlutterJNI: float refreshRateFPS
+com.dexterous.flutterlocalnotifications.models.DateTimeComponents: DateTimeComponents(java.lang.String,int)
+io.flutter.embedding.engine.FlutterJNI: FlutterJNI()
+com.dexterous.flutterlocalnotifications.models.styles.InboxStyleInformation: java.lang.String summaryText
+com.google.android.gms.internal.firebase-auth-api.zznw: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.firebase-auth-api.zzht: com.google.android.gms.internal.firebase-auth-api.zzhz zzf
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: com.dexterous.flutterlocalnotifications.models.styles.StyleInformation styleInformation
+com.google.android.gms.internal.firebase-auth-api.zzfr: com.google.android.gms.internal.firebase-auth-api.zzfr zzb
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String DESCRIPTION
+com.dexterous.flutterlocalnotifications.SoundSource: com.dexterous.flutterlocalnotifications.SoundSource RawResource
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String scheduledDateTime
+com.google.android.gms.internal.firebase-auth-api.zznk: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.firebase-auth-api.zzls: android.os.Parcelable$Creator CREATOR
+org.threeten.bp.chrono.ThaiBuddhistChronology: java.lang.Object readResolve()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String GET_NOTIFICATION_APP_LAUNCH_DETAILS_METHOD
+org.threeten.bp.YearMonth: java.lang.Object readResolve()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback: void onEnd(android.view.WindowInsetsAnimation)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Integer id
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void getTransformMatrix(float[])
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String BODY
+com.dexterous.flutterlocalnotifications.models.Time: java.lang.Integer hour
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: FlutterMutatorsStack()
+androidx.media.AudioAttributesImplApi26Parcelizer: void write(androidx.media.AudioAttributesImplApi26,androidx.versionedparcelable.VersionedParcel)
+com.google.android.gms.internal.firebase-auth-api.zzji: java.lang.String zze
+io.flutter.embedding.engine.FlutterJNI: void nativeSetSemanticsEnabled(long,boolean)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String VIBRATION_PATTERN
+android.support.v4.media.session.MediaSessionCompat$ResultReceiverWrapper
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_RESUME
+com.dexterous.flutterlocalnotifications.SoundSource: SoundSource(java.lang.String,int)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String TITLE
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event[] values()
+com.google.android.gms.internal.firebase-auth-api.zzwj: android.os.Parcelable$Creator CREATOR
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String VIBRATION_PATTERN
+io.flutter.embedding.engine.systemchannels.PlatformChannel$Brightness: io.flutter.embedding.engine.systemchannels.PlatformChannel$Brightness valueOf(java.lang.String)
+com.google.android.gms.internal.firebase-auth-api.zzhz: com.google.android.gms.internal.firebase-auth-api.zzhz zzb
+com.dexterous.flutterlocalnotifications.models.PersonDetails: java.lang.String icon
+com.dexterous.flutterlocalnotifications.models.DateTimeComponents
+io.flutter.embedding.engine.FlutterJNI: void onDisplayPlatformView(int,int,int,int,int,int,int,io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack)
+androidx.fragment.app.FragmentActivity: FragmentActivity()
+com.google.android.exoplayer2.metadata.flac.VorbisComment: android.os.Parcelable$Creator CREATOR
+androidx.work.impl.WorkDatabase
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String LED_COLOR_GREEN
+org.threeten.bp.chrono.Ser
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: java.util.List getMutators()
+org.threeten.bp.format.DateTimeFormatterBuilder$SettingsParser: org.threeten.bp.format.DateTimeFormatterBuilder$SettingsParser valueOf(java.lang.String)
+io.flutter.view.AccessibilityViewEmbedder: java.lang.Integer getRecordFlutterId(android.view.View,android.view.accessibility.AccessibilityRecord)
+io.flutter.embedding.engine.FlutterJNI: io.flutter.plugin.localization.LocalizationPlugin localizationPlugin
+org.threeten.bp.Instant: java.lang.Object readResolve()
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Integer iconResourceId
+com.google.android.exoplayer2.metadata.id3.ApicFrame: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.firebase-auth-api.zzhz: int zzf
+androidx.work.WorkerParameters
+org.threeten.bp.DayOfWeek: org.threeten.bp.DayOfWeek[] values()
+com.google.android.gms.internal.firebase-auth-api.zzgx: com.google.android.gms.internal.firebase-auth-api.zzgx zzb
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void zonedScheduleNextNotification(android.content.Context,com.dexterous.flutterlocalnotifications.models.NotificationDetails)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String LARGE_ICON_BITMAP_SOURCE
+androidx.media.AudioAttributesImplBaseParcelizer: androidx.media.AudioAttributesImplBase read(androidx.versionedparcelable.VersionedParcel)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: long calculateRepeatIntervalMilliseconds(com.dexterous.flutterlocalnotifications.models.NotificationDetails)
+com.google.android.gms.internal.firebase-auth-api.zzff
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: void remove()
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: java.util.List finalClippingPaths
+androidx.work.ArrayCreatingInputMerger: ArrayCreatingInputMerger()
+com.google.android.exoplayer2.decoder.Buffer: boolean isKeyFrame()
+io.flutter.embedding.android.FlutterSplashView$SavedState
+com.dexterous.flutterlocalnotifications.models.styles.BigPictureStyleInformation: BigPictureStyleInformation(java.lang.Boolean,java.lang.Boolean,java.lang.String,java.lang.Boolean,java.lang.String,java.lang.Boolean,java.lang.String,com.dexterous.flutterlocalnotifications.BitmapSource,java.lang.String,com.dexterous.flutterlocalnotifications.BitmapSource,java.lang.Boolean)
+com.dexterous.flutterlocalnotifications.BitmapSource: com.dexterous.flutterlocalnotifications.BitmapSource valueOf(java.lang.String)
+io.flutter.embedding.android.FlutterSplashView$SavedState: android.os.Bundle access$700(io.flutter.embedding.android.FlutterSplashView$SavedState)
+com.google.android.gms.internal.firebase-auth-api.zzhg: int zze
+com.google.android.exoplayer2.trackselection.TrackSelectionParameters: android.os.Parcelable$Creator CREATOR
+io.flutter.view.AccessibilityViewEmbedder: void copyAccessibilityFields(android.view.accessibility.AccessibilityNodeInfo,android.view.accessibility.AccessibilityNodeInfo)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: android.text.Spanned fromHtml(java.lang.String)
+androidx.lifecycle.FullLifecycleObserverAdapter
+com.google.android.gms.internal.firebase-auth-api.zzjt: com.google.android.gms.internal.firebase-auth-api.zzjt zzb
+com.google.android.gms.internal.firebase-auth-api.zzfo: com.google.android.gms.internal.firebase-auth-api.zzfr zze
+com.dexterous.flutterlocalnotifications.models.styles.BigPictureStyleInformation: java.lang.String largeIcon
+org.threeten.bp.chrono.Ser: java.lang.Object readResolve()
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String channelName
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void zonedScheduleNextNotificationMatchingDateComponents(android.content.Context,com.dexterous.flutterlocalnotifications.models.NotificationDetails)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String shortcutId
+io.flutter.embedding.engine.FlutterJNI: void ensureRunningOnMainThread()
+com.google.android.gms.internal.firebase-auth-api.zzma: android.os.Parcelable$Creator CREATOR
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String LED_COLOR_BLUE
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPostCreated(android.app.Activity,android.os.Bundle)
+com.google.android.gms.internal.firebase-auth-api.zzew: int zze
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: com.dexterous.flutterlocalnotifications.models.NotificationDetails from(java.util.Map)
+io.flutter.embedding.engine.FlutterJNI: void ensureNotAttachedToNative()
+com.google.android.gms.internal.firebase-auth-api.zzhq: com.google.android.gms.internal.firebase-auth-api.zzhq[] values()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback: io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback this$0
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String ALLOW_WHILE_IDLE
+com.google.android.gms.internal.firebase-auth-api.zzjn
+com.dexterous.flutterlocalnotifications.RepeatInterval: com.dexterous.flutterlocalnotifications.RepeatInterval Weekly
+com.dexterous.flutterlocalnotifications.models.DateTimeComponents: com.dexterous.flutterlocalnotifications.models.DateTimeComponents Time
+io.flutter.embedding.engine.systemchannels.PlatformChannel$DeviceOrientation: io.flutter.embedding.engine.systemchannels.PlatformChannel$DeviceOrientation[] values()
+io.flutter.embedding.android.FlutterImageView
+com.google.android.gms.internal.firebase-auth-api.zzjf: com.google.android.gms.internal.firebase-auth-api.zzji zzf
+com.dexterous.flutterlocalnotifications.RepeatInterval: com.dexterous.flutterlocalnotifications.RepeatInterval Daily
+com.dexterous.flutterlocalnotifications.utils.StringUtils: java.lang.Boolean isNullOrEmpty(java.lang.String)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String ENABLE_LIGHTS
+io.flutter.plugin.platform.SingleViewPresentation: io.flutter.plugin.platform.PlatformView getView()
+android.support.v4.media.AudioAttributesCompatParcelizer: AudioAttributesCompatParcelizer()
+com.google.android.gms.internal.firebase-auth-api.zzew: com.google.android.gms.internal.firebase-auth-api.zzfc zzf
+com.dexterous.flutterlocalnotifications.RuntimeTypeAdapterFactory: java.lang.Class access$100(com.dexterous.flutterlocalnotifications.RuntimeTypeAdapterFactory)
+com.google.android.gms.internal.firebase-auth-api.zzly: android.os.Parcelable$Creator CREATOR
+com.google.android.exoplayer2.decoder.Buffer: void clearFlag(int)
+com.google.android.exoplayer2.decoder.OutputBuffer: int skippedOutputBufferCount
+com.google.gson.FieldNamingPolicy: com.google.gson.FieldNamingPolicy[] values()
+org.threeten.bp.chrono.Chronology: java.lang.Object readResolve()
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: SurfaceTextureWrapper(android.graphics.SurfaceTexture)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: boolean isValidDrawableResource(android.content.Context,java.lang.String,io.flutter.plugin.common.MethodChannel$Result,java.lang.String)
+org.threeten.bp.ZonedDateTime: java.lang.Object readResolve()
+android.support.v4.graphics.drawable.IconCompatParcelizer: void write(androidx.core.graphics.drawable.IconCompat,androidx.versionedparcelable.VersionedParcel)
+io.flutter.embedding.engine.FlutterJNI: android.graphics.Bitmap getBitmap()
+android.support.v4.media.AudioAttributesImplApi21Parcelizer
+io.flutter.embedding.engine.FlutterJNI: void onSurfaceChanged(int,int)
+androidx.work.impl.utils.futures.AbstractFuture$Waiter: java.lang.Thread thread
+com.dexterous.flutterlocalnotifications.models.styles.MessagingStyleInformation: com.dexterous.flutterlocalnotifications.models.PersonDetails person
+com.dexterous.flutterlocalnotifications.models.NotificationChannelAction: com.dexterous.flutterlocalnotifications.models.NotificationChannelAction[] values()
+androidx.room.MultiInstanceInvalidationService
+com.dexterous.flutterlocalnotifications.RuntimeTypeAdapterFactory: java.lang.String access$000(com.dexterous.flutterlocalnotifications.RuntimeTypeAdapterFactory)
+io.flutter.view.AccessibilityBridge$Flag: io.flutter.view.AccessibilityBridge$Flag valueOf(java.lang.String)
+androidx.media.AudioAttributesImplApi21
+com.dexterous.flutterlocalnotifications.RuntimeTypeAdapterFactory: com.dexterous.flutterlocalnotifications.RuntimeTypeAdapterFactory registerSubtype(java.lang.Class,java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void nativeDispatchSemanticsAction(long,int,int,java.nio.ByteBuffer,int)
+com.dexterous.flutterlocalnotifications.models.MessageDetails
+com.dexterous.flutterlocalnotifications.models.PersonDetails: java.lang.Boolean bot
+com.google.android.gms.internal.firebase-auth-api.zzgd: int zze
+com.google.android.exoplayer2.metadata.id3.GeobFrame: android.os.Parcelable$Creator CREATOR
+com.dexterous.flutterlocalnotifications.models.Time: java.lang.String SECOND
+org.threeten.bp.chrono.ThaiBuddhistChronology
+com.google.firebase.provider.FirebaseInitProvider
+com.dexterous.flutterlocalnotifications.models.NotificationChannelGroupDetails: java.lang.String id
+com.google.firebase.auth.FirebaseAuthRegistrar: java.util.List getComponents()
+androidx.media.AudioAttributesCompatParcelizer
+androidx.media.AudioAttributesImplApi21Parcelizer: void write(androidx.media.AudioAttributesImplApi21,androidx.versionedparcelable.VersionedParcel)
+com.google.firebase.auth.FirebaseAuthRegistrar
+org.threeten.bp.chrono.ChronoLocalDateTimeImpl: java.lang.Object writeReplace()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$InsetsListener insetsListener
+androidx.activity.ComponentActivity$2
+com.google.android.exoplayer2.trackselection.DefaultTrackSelector$Parameters: android.os.Parcelable$Creator CREATOR
+io.flutter.plugins.firebase.core.FlutterFirebasePluginRegistry: com.google.android.gms.tasks.Task didReinitializeFirebaseCore()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String CANCEL_ALL_METHOD
+com.google.android.gms.common.api.internal.LifecycleCallback
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPostStarted(android.app.Activity)
+com.google.android.gms.internal.firebase-auth-api.zzjq: int zze
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String DRAWABLE
+com.google.android.gms.internal.firebase-auth-api.zzzp: com.google.android.gms.internal.firebase-auth-api.zzzp[] values()
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: NotificationDetails()
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String MATCH_DATE_TIME_COMPONENTS
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String IMPORTANCE
+io.flutter.embedding.engine.FlutterJNI: io.flutter.view.FlutterCallbackInformation nativeLookupCallbackInformation(long)
+com.google.android.gms.auth.api.signin.internal.SignInConfiguration: android.os.Parcelable$Creator CREATOR
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.WindowInsets lastWindowInsets
+io.flutter.embedding.engine.FlutterJNI: void onFirstFrame()
+androidx.work.impl.utils.futures.AbstractFuture: androidx.work.impl.utils.futures.AbstractFuture$Listener listeners
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void attachToGLContext(int)
+com.dexterous.flutterlocalnotifications.models.styles.InboxStyleInformation: java.lang.Boolean htmlFormatContentTitle
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin
+androidx.media.AudioAttributesCompatParcelizer: AudioAttributesCompatParcelizer()
+com.dexterous.flutterlocalnotifications.models.Time: com.dexterous.flutterlocalnotifications.models.Time from(java.util.Map)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: ReportFragment$LifecycleCallbacks()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String CREATE_NOTIFICATION_CHANNEL_GROUP_METHOD
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String id
+com.dexterous.flutterlocalnotifications.RepeatInterval
+com.dexterous.flutterlocalnotifications.models.IconSource: com.dexterous.flutterlocalnotifications.models.IconSource valueOf(java.lang.String)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String SOUND
+androidx.work.InputMerger: InputMerger()
+com.google.android.gms.common.internal.zzs: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.firebase-auth-api.zzwu: android.os.Parcelable$Creator CREATOR
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void setMessagingStyle(android.content.Context,com.dexterous.flutterlocalnotifications.models.NotificationDetails,androidx.core.app.NotificationCompat$Builder)
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String description
+io.flutter.view.FlutterCallbackInformation: FlutterCallbackInformation(java.lang.String,java.lang.String,java.lang.String)
+com.google.android.gms.internal.firebase-auth-api.zzmm: android.os.Parcelable$Creator CREATOR
+com.google.firebase.auth.PhoneAuthCredential: android.os.Parcelable$Creator CREATOR
+com.google.android.exoplayer2.decoder.Buffer: void clear()
+android.support.v4.media.MediaMetadataCompat
+io.flutter.embedding.engine.FlutterJNI: void notifyLowMemoryWarning()
+android.support.v4.media.AudioAttributesImplBaseParcelizer: AudioAttributesImplBaseParcelizer()
+org.threeten.bp.LocalTime
+org.threeten.bp.format.SignStyle: org.threeten.bp.format.SignStyle[] values()
+com.google.android.gms.internal.firebase-auth-api.zzir
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String IMPORTANT
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void cancel(io.flutter.plugin.common.MethodCall,io.flutter.plugin.common.MethodChannel$Result)
+io.flutter.view.AccessibilityViewEmbedder: android.view.accessibility.AccessibilityNodeInfo createAccessibilityNodeInfo(int)
+com.google.common.util.concurrent.AbstractFuture: java.lang.Object value
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: FlutterLocalNotificationsPlugin()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void applyGrouping(com.dexterous.flutterlocalnotifications.models.NotificationDetails,androidx.core.app.NotificationCompat$Builder)
+org.threeten.bp.ZonedDateTime: java.lang.Object writeReplace()
+com.google.android.gms.internal.firebase-auth-api.zziw: com.google.android.gms.internal.firebase-auth-api.zzaab zzf
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String ICON_SOURCE
+io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar
+com.google.android.gms.internal.firebase-auth-api.zziv: com.google.android.gms.internal.firebase-auth-api.zziv zzb
+com.google.android.gms.internal.firebase-auth-api.zziv: int zzf
+com.google.android.exoplayer2.source.hls.HlsMediaSource$Factory
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: void readLedInformation(com.dexterous.flutterlocalnotifications.models.NotificationDetails,java.util.Map)
+com.google.android.gms.internal.firebase-auth-api.zzny: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.FlutterJNI: android.graphics.Bitmap nativeGetBitmap(long)
+com.dexterous.flutterlocalnotifications.models.Time
+com.google.android.exoplayer2.video.VideoDecoderOutputBuffer: com.google.android.exoplayer2.Format format
+io.flutter.embedding.engine.FlutterJNI: void dispatchEmptyPlatformMessage(java.lang.String,int)
+androidx.versionedparcelable.ParcelImpl
+io.flutter.embedding.engine.FlutterJNI: long nativeAttach(io.flutter.embedding.engine.FlutterJNI,boolean)
+com.dexterous.flutterlocalnotifications.NotificationStyle: com.dexterous.flutterlocalnotifications.NotificationStyle BigText
+com.dexterous.flutterlocalnotifications.RuntimeTypeAdapterFactory: RuntimeTypeAdapterFactory(java.lang.Class,java.lang.String)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: java.util.List getFinalClippingPaths()
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: com.dexterous.flutterlocalnotifications.RepeatInterval repeatInterval
+com.google.android.gms.internal.firebase-auth-api.zzfu
+com.dexterous.flutterlocalnotifications.ScheduledNotificationBootReceiver
+androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String CANCEL_METHOD
+androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver: ForceStopRunnable$BroadcastReceiver()
+com.google.android.gms.internal.firebase-auth-api.zzye: int zza
+io.flutter.embedding.engine.systemchannels.SettingsChannel$PlatformBrightness: io.flutter.embedding.engine.systemchannels.SettingsChannel$PlatformBrightness[] values()
+com.google.firebase.auth.internal.zzbb: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.firebase-auth-api.zzeq: com.google.android.gms.internal.firebase-auth-api.zzet zzf
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: io.flutter.plugin.common.MethodChannel channel
+android.support.v4.media.AudioAttributesCompatParcelizer
+com.dexterous.flutterlocalnotifications.ScheduledNotificationReceiver: void onReceive(android.content.Context,android.content.Intent)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String LED_COLOR_BLUE
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: com.dexterous.flutterlocalnotifications.models.ScheduledNotificationRepeatFrequency scheduledNotificationRepeatFrequency
+com.google.android.exoplayer2.decoder.OutputBuffer: void release()
+com.dexterous.flutterlocalnotifications.models.Time: java.lang.String MINUTE
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void cancelAllNotifications(io.flutter.plugin.common.MethodChannel$Result)
+com.google.android.gms.internal.firebase-auth-api.zzgm: int zze
+io.flutter.embedding.engine.systemchannels.PlatformChannel$HapticFeedbackType: io.flutter.embedding.engine.systemchannels.PlatformChannel$HapticFeedbackType valueOf(java.lang.String)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.View view
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String GROUP_ALERT_BEHAVIOR
+org.threeten.bp.chrono.ThaiBuddhistEra: org.threeten.bp.chrono.ThaiBuddhistEra valueOf(java.lang.String)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiOverlay: io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiOverlay valueOf(java.lang.String)
+com.google.android.gms.internal.firebase-auth-api.zzaaf: com.google.android.gms.internal.firebase-auth-api.zzaaf[] values()
+io.flutter.embedding.engine.FlutterJNI: void setAccessibilityFeatures(int)
+org.threeten.bp.temporal.IsoFields$Field: org.threeten.bp.temporal.IsoFields$Field[] values()
+com.google.android.gms.internal.firebase-auth-api.zzga
+androidx.lifecycle.LifecycleService: LifecycleService()
+androidx.media.AudioAttributesImplApi21Parcelizer: AudioAttributesImplApi21Parcelizer()
+org.threeten.bp.YearMonth: java.lang.Object writeReplace()
+com.dexterous.flutterlocalnotifications.models.styles.BigPictureStyleInformation
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Integer day
+com.google.android.gms.signin.internal.zai: android.os.Parcelable$Creator CREATOR
+org.threeten.bp.zone.StandardZoneRules
+androidx.media.AudioAttributesImplBaseParcelizer: AudioAttributesImplBaseParcelizer()
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String DAY
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String SHOW_DAILY_AT_TIME_METHOD
+org.threeten.bp.chrono.ChronoZonedDateTimeImpl: java.lang.Object writeReplace()
+androidx.work.impl.WorkManagerInitializer
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String HIDE_EXPANDED_LARGE_ICON
+com.google.android.exoplayer2.video.VideoDecoderOutputBuffer: VideoDecoderOutputBuffer(com.google.android.exoplayer2.decoder.OutputBuffer$Owner)
+com.google.firebase.auth.FirebaseAuth: com.google.firebase.auth.FirebaseAuth getInstance()
+androidx.work.OverwritingInputMerger: OverwritingInputMerger()
+com.google.android.exoplayer2.video.VideoDecoderOutputBuffer: java.nio.ByteBuffer data
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterJNI$AccessibilityDelegate accessibilityDelegate
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.WindowInsets access$402(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback,android.view.WindowInsets)
+org.threeten.bp.MonthDay: java.lang.Object writeReplace()
+androidx.lifecycle.Lifecycling$1
+com.google.gson.stream.JsonToken: com.google.gson.stream.JsonToken valueOf(java.lang.String)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String icon
+io.flutter.view.FlutterCallbackInformation: java.lang.String callbackName
+com.google.android.exoplayer2.upstream.RawResourceDataSource
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String REPEAT_TIME
+android.support.v4.media.MediaMetadataCompat: android.os.Parcelable$Creator CREATOR
+com.google.android.exoplayer2.drm.DrmInitData$SchemeData: android.os.Parcelable$Creator CREATOR
+io.flutter.view.AccessibilityViewEmbedder: android.view.accessibility.AccessibilityNodeInfo convertToFlutterNode(android.view.accessibility.AccessibilityNodeInfo,int,android.view.View)
+android.support.v4.media.MediaBrowserCompat$SearchResultReceiver
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void zonedScheduleNotification(android.content.Context,com.dexterous.flutterlocalnotifications.models.NotificationDetails,java.lang.Boolean)
+com.google.android.gms.internal.firebase-auth-api.zzhg: com.google.android.gms.internal.firebase-auth-api.zzha zzf
+com.google.android.exoplayer2.metadata.dvbsi.AppInfoTable: android.os.Parcelable$Creator CREATOR
+com.dexterous.flutterlocalnotifications.RuntimeTypeAdapterFactory: java.lang.Class baseType
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String SCHEDULED_NOTIFICATIONS
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsVariationSelector(int)
+com.google.android.gms.internal.firebase-auth-api.zzmg: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.systemchannels.PlatformChannel$DeviceOrientation: io.flutter.embedding.engine.systemchannels.PlatformChannel$DeviceOrientation valueOf(java.lang.String)
+com.google.android.gms.internal.firebase-auth-api.zzgd
+com.dexterous.flutterlocalnotifications.models.DateTimeComponents: com.dexterous.flutterlocalnotifications.models.DateTimeComponents[] values()
+io.flutter.view.AccessibilityBridge$TextDirection: io.flutter.view.AccessibilityBridge$TextDirection[] values()
+com.google.firebase.FirebaseCommonRegistrar
+com.google.android.gms.common.util.DynamiteApi
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String CONVERSATION_TITLE
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: void pushClipRRect(int,int,int,int,float[])
+androidx.media.AudioAttributesImplBaseParcelizer
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String DATA_URI
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: androidx.core.app.NotificationManagerCompat getNotificationManager(android.content.Context)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String INVALID_LARGE_ICON_ERROR_CODE
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String ENABLE_LIGHTS
+com.google.android.gms.internal.firebase-auth-api.zzwe: com.google.android.gms.internal.firebase-auth-api.zzwe[] values()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void setupNotificationChannel(android.content.Context,com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails)
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_CREATE
+com.google.android.gms.internal.firebase-auth-api.zzie: java.lang.String zze
+com.google.android.exoplayer2.source.TrackGroup: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.firebase-auth-api.zzfi
+io.flutter.embedding.engine.FlutterJNI: void nativeNotifyLowMemoryWarning(long)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String tag
+androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+com.google.android.gms.safetynet.HarmfulAppsData: android.os.Parcelable$Creator CREATOR
+org.threeten.bp.ZoneOffset: java.lang.Object writeReplace()
+androidx.fragment.app.BackStackState: android.os.Parcelable$Creator CREATOR
+com.dexterous.flutterlocalnotifications.models.MessageDetails: java.lang.Long timestamp
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String PERSON
+org.threeten.bp.chrono.MinguoChronology: java.lang.Object readResolve()
+com.google.android.gms.auth.api.signin.RevocationBoundService: RevocationBoundService()
+com.google.firebase.components.ComponentDiscoveryService
+org.threeten.bp.Instant
+com.google.android.gms.internal.firebase-auth-api.zzhd: com.google.android.gms.internal.firebase-auth-api.zzyu zzg
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void createNotificationChannelGroup(io.flutter.plugin.common.MethodCall,io.flutter.plugin.common.MethodChannel$Result)
+com.google.android.gms.internal.firebase-auth-api.zziq: com.google.android.gms.internal.firebase-auth-api.zziq zzb
+com.google.android.gms.internal.firebase-auth-api.zzhj
+com.dexterous.flutterlocalnotifications.models.NotificationChannelGroupDetails: java.lang.String DESCRIPTION
+com.dexterous.flutterlocalnotifications.models.Time: java.lang.Integer minute
+androidx.lifecycle.ReflectiveGenericLifecycleObserver
+io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar: FlutterFirebaseAuthRegistrar()
+io.flutter.embedding.engine.FlutterJNI: void nativeDispatchPlatformMessage(long,java.lang.String,java.nio.ByteBuffer,int,int)
+com.google.android.gms.internal.firebase-auth-api.zzjn: com.google.android.gms.internal.firebase-auth-api.zzjn zzb
+com.google.android.gms.internal.firebase-auth-api.zzfx: com.google.android.gms.internal.firebase-auth-api.zzfx zzb
+com.dexterous.flutterlocalnotifications.models.IconSource: com.dexterous.flutterlocalnotifications.models.IconSource DrawableResource
+com.google.android.gms.internal.firebase-auth-api.zzjt
+io.flutter.embedding.engine.FlutterJNI: void nativeRegisterTexture(long,long,io.flutter.embedding.engine.renderer.SurfaceTextureWrapper)
+androidx.work.impl.foreground.SystemForegroundService
+com.google.android.gms.internal.firebase-auth-api.zzne: android.os.Parcelable$Creator CREATOR
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Integer priority
+io.flutter.embedding.engine.FlutterJNI: void unregisterTexture(long)
+org.threeten.bp.Period
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String COLOR_ALPHA
+io.flutter.embedding.android.RenderMode: io.flutter.embedding.android.RenderMode[] values()
+org.threeten.bp.DayOfWeek: org.threeten.bp.DayOfWeek valueOf(java.lang.String)
+com.google.android.exoplayer2.source.hls.HlsTrackMetadataEntry: android.os.Parcelable$Creator CREATOR
+com.google.firebase.auth.internal.RecaptchaActivity: RecaptchaActivity()
+io.flutter.embedding.engine.FlutterJNI: void requestDartDeferredLibrary(int)
+com.google.android.exoplayer2.metadata.id3.UrlLinkFrame: android.os.Parcelable$Creator CREATOR
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void setCategory(com.dexterous.flutterlocalnotifications.models.NotificationDetails,androidx.core.app.NotificationCompat$Builder)
+io.flutter.embedding.engine.FlutterJNI: void nativeInit(android.content.Context,java.lang.String[],java.lang.String,java.lang.String,java.lang.String,long)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String SET_AS_GROUP_SUMMARY
+android.support.v4.media.AudioAttributesImplApi21Parcelizer: void write(androidx.media.AudioAttributesImplApi21,androidx.versionedparcelable.VersionedParcel)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: int access$500(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void registerWith(io.flutter.plugin.common.PluginRegistry$Registrar)
+com.google.android.exoplayer2.video.VideoDecoderOutputBuffer: int[] yuvStrides
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorView: android.graphics.Matrix getPlatformViewMatrix()
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: android.graphics.Matrix finalMatrix
+org.threeten.bp.Ser: Ser()
+io.flutter.plugins.firebase.core.FlutterFirebasePlugin: java.util.concurrent.ExecutorService cachedThreadPool
+androidx.room.RoomDatabase$JournalMode: androidx.room.RoomDatabase$JournalMode valueOf(java.lang.String)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper
+com.google.android.gms.internal.firebase-auth-api.zzfl: int zze
+io.flutter.embedding.engine.FlutterJNI: void nativeMarkTextureFrameAvailable(long,long)
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterJNI spawn(java.lang.String,java.lang.String)
+androidx.core.app.CoreComponentFactory
+io.flutter.embedding.android.FlutterSurfaceView: io.flutter.embedding.engine.renderer.FlutterRenderer getAttachedRenderer()
+io.flutter.embedding.engine.FlutterJNI: void onEndFrame()
+com.google.android.gms.internal.firebase-auth-api.zzgj: com.google.android.gms.internal.firebase-auth-api.zzgj zzb
+com.dexterous.flutterlocalnotifications.utils.StringUtils
+com.dexterous.flutterlocalnotifications.NotificationStyle: com.dexterous.flutterlocalnotifications.NotificationStyle[] values()
+io.flutter.embedding.engine.FlutterJNI: void updateJavaAssetManager(android.content.res.AssetManager,java.lang.String)
+com.google.android.gms.internal.firebase-auth-api.zzij: int zzg
+io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar: java.util.List getComponents()
+io.flutter.embedding.engine.plugins.lifecycle.HiddenLifecycleReference
+com.dexterous.flutterlocalnotifications.models.styles.BigTextStyleInformation: java.lang.Boolean htmlFormatBigText
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterOverlaySurface createOverlaySurface()
+com.dexterous.flutterlocalnotifications.models.styles.BigPictureStyleInformation: com.dexterous.flutterlocalnotifications.BitmapSource bigPictureBitmapSource
+androidx.versionedparcelable.CustomVersionedParcelable
+io.flutter.embedding.engine.systemchannels.TextInputChannel$TextCapitalization: io.flutter.embedding.engine.systemchannels.TextInputChannel$TextCapitalization[] values()
+org.threeten.bp.zone.ZoneOffsetTransition: java.lang.Object writeReplace()
+io.flutter.embedding.engine.FlutterJNI: void updateCustomAccessibilityActions(java.nio.ByteBuffer,java.lang.String[])
+com.google.android.gms.internal.firebase-auth-api.zziw
+androidx.work.impl.utils.futures.DirectExecutor: androidx.work.impl.utils.futures.DirectExecutor valueOf(java.lang.String)
+com.dexterous.flutterlocalnotifications.NotificationStyle: com.dexterous.flutterlocalnotifications.NotificationStyle[] $VALUES
+com.google.android.exoplayer2.video.VideoDecoderOutputBuffer: void init(long,int,java.nio.ByteBuffer)
+io.flutter.plugins.firebase.core.FlutterFirebasePluginRegistry: com.google.android.gms.tasks.Task getPluginConstantsForFirebaseApp(com.google.firebase.FirebaseApp)
+org.threeten.bp.temporal.ChronoField: org.threeten.bp.temporal.ChronoField[] values()
+androidx.work.impl.background.systemalarm.SystemAlarmService: SystemAlarmService()
+io.flutter.embedding.android.FlutterImageView$SurfaceKind: io.flutter.embedding.android.FlutterImageView$SurfaceKind valueOf(java.lang.String)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String PROGRESS
+org.threeten.bp.format.ResolverStyle: org.threeten.bp.format.ResolverStyle[] values()
+io.flutter.embedding.engine.FlutterJNI: boolean initCalled
+io.flutter.app.FlutterApplication
+org.threeten.bp.format.TextStyle: org.threeten.bp.format.TextStyle valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void nativeInvokePlatformMessageEmptyResponseCallback(long,int)
+android.support.v4.media.AudioAttributesCompatParcelizer: void write(androidx.media.AudioAttributesCompat,androidx.versionedparcelable.VersionedParcel)
+androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: void readGroupingInformation(com.dexterous.flutterlocalnotifications.models.NotificationDetails,java.util.Map)
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.Boolean showBadge
+com.google.android.gms.internal.firebase-auth-api.zzji
+com.google.android.exoplayer2.metadata.id3.InternalFrame: android.os.Parcelable$Creator CREATOR
+org.threeten.bp.temporal.IsoFields$Unit: org.threeten.bp.temporal.IsoFields$Unit[] values()
+com.google.android.gms.auth.api.signin.SignInAccount: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.auth.api.signin.GoogleSignInAccount: android.os.Parcelable$Creator CREATOR
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void deleteNotificationChannelGroup(io.flutter.plugin.common.MethodCall,io.flutter.plugin.common.MethodChannel$Result)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String HTML_FORMAT_SUMMARY_TEXT
+io.flutter.view.AccessibilityBridge$Flag: io.flutter.view.AccessibilityBridge$Flag[] values()
+com.dexterous.flutterlocalnotifications.RuntimeTypeAdapterFactory: com.dexterous.flutterlocalnotifications.RuntimeTypeAdapterFactory of(java.lang.Class,java.lang.String)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$ClipboardContentFormat: io.flutter.embedding.engine.systemchannels.PlatformChannel$ClipboardContentFormat valueOf(java.lang.String)
+androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy: ConstraintProxy$BatteryChargingProxy()
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: void readPlatformSpecifics(java.util.Map,com.dexterous.flutterlocalnotifications.models.NotificationDetails)
+com.google.android.gms.internal.firebase-auth-api.zzew: com.google.android.gms.internal.firebase-auth-api.zzht zzg
+com.google.android.gms.internal.firebase-auth-api.zznc: android.os.Parcelable$Creator CREATOR
+io.flutter.view.AccessibilityViewEmbedder: void setFlutterNodeParent(android.view.accessibility.AccessibilityNodeInfo,android.view.View,android.view.accessibility.AccessibilityNodeInfo)
+androidx.savedstate.SavedStateRegistry$1
+com.google.android.gms.internal.firebase-auth-api.zziz: int zze
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPreStopped(android.app.Activity)
+io.flutter.embedding.engine.FlutterJNI: void invokePlatformMessageResponseCallback(int,java.nio.ByteBuffer,int)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String SHARED_PREFERENCES_KEY
+com.google.android.gms.internal.firebase-auth-api.zziv: java.lang.String zze
+com.google.firebase.auth.PhoneMultiFactorInfo: android.os.Parcelable$Creator CREATOR
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: boolean hasInvalidLedDetails(io.flutter.plugin.common.MethodChannel$Result,com.dexterous.flutterlocalnotifications.models.NotificationDetails)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String ONLY_ALERT_ONCE
+io.flutter.embedding.engine.systemchannels.TextInputChannel$TextCapitalization: io.flutter.embedding.engine.systemchannels.TextInputChannel$TextCapitalization valueOf(java.lang.String)
+org.threeten.bp.chrono.MinguoDate: java.lang.Object writeReplace()
+com.google.firebase.auth.EmailAuthCredential: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.firebase-auth-api.zzhg: com.google.android.gms.internal.firebase-auth-api.zzyu zzg
+io.flutter.embedding.engine.FlutterJNI: java.lang.String TAG
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: ImeSyncDeferringInsetsCallback(android.view.View,int,int)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: android.net.Uri retrieveSoundResourceUri(android.content.Context,java.lang.String,com.dexterous.flutterlocalnotifications.SoundSource)
+com.google.android.gms.internal.firebase-auth-api.zzhw: com.google.android.gms.internal.firebase-auth-api.zzhz zze
+io.flutter.embedding.engine.FlutterJNI: void loadLibrary()
+com.google.android.gms.internal.firebase-auth-api.zzgu: com.google.android.gms.internal.firebase-auth-api.zzij zze
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String FULL_SCREEN_INTENT
+com.google.android.gms.internal.firebase-auth-api.zzir: int zze
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String TIMESTAMP
+io.flutter.embedding.engine.plugins.lifecycle.HiddenLifecycleReference: androidx.lifecycle.Lifecycle lifecycle
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.Integer ledColor
+io.flutter.embedding.android.FlutterView$ZeroSides: io.flutter.embedding.android.FlutterView$ZeroSides[] values()
+org.threeten.bp.OffsetTime: java.lang.Object readResolve()
+com.dexterous.flutterlocalnotifications.models.styles.BigTextStyleInformation: java.lang.String summaryText
+io.flutter.embedding.android.FlutterView
+com.google.firebase.auth.FirebaseAuthRegistrar: com.google.firebase.auth.FirebaseAuth lambda$getComponents$0(com.google.firebase.components.ComponentContainer)
+io.flutter.embedding.engine.FlutterJNI: void nativeDeferredComponentInstallFailure(int,java.lang.String,boolean)
+com.dexterous.flutterlocalnotifications.models.styles.MessagingStyleInformation: java.lang.String conversationTitle
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails
+androidx.core.graphics.drawable.IconCompatParcelizer
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Integer maxProgress
+com.dexterous.flutterlocalnotifications.RuntimeTypeAdapterFactory: com.dexterous.flutterlocalnotifications.RuntimeTypeAdapterFactory of(java.lang.Class)
+io.flutter.embedding.engine.FlutterJNI: void setAsyncWaitForVsyncDelegate(io.flutter.embedding.engine.FlutterJNI$AsyncWaitForVsyncDelegate)
+com.google.android.gms.internal.firebase-auth-api.zzgp: com.google.android.gms.internal.firebase-auth-api.zzgp zzb
+com.google.android.gms.internal.firebase-auth-api.zzho
+com.google.firebase.auth.FacebookAuthCredential: android.os.Parcelable$Creator CREATOR
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String INVALID_LED_DETAILS_ERROR_MESSAGE
+io.flutter.view.AccessibilityViewEmbedder: java.util.Map embeddedViewToDisplayBounds
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String CHANNEL_DESCRIPTION
+io.flutter.embedding.android.FlutterView: io.flutter.embedding.engine.FlutterEngine getAttachedFlutterEngine()
+com.google.android.gms.common.data.DataHolder: android.os.Parcelable$Creator CREATOR
+androidx.work.impl.workers.CombineContinuationsWorker
+com.google.android.gms.common.annotation.KeepName
+com.google.android.gms.internal.firebase-auth-api.zziv: int zzh
+org.threeten.bp.Instant: java.lang.Object writeReplace()
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String URI
+com.google.android.gms.internal.firebase-auth-api.zzmo: android.os.Parcelable$Creator CREATOR
+androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String LARGE_ICON
+io.flutter.view.AccessibilityViewEmbedder: boolean onAccessibilityHoverEvent(int,android.view.MotionEvent)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void schedule(io.flutter.plugin.common.MethodCall,io.flutter.plugin.common.MethodChannel$Result)
+androidx.work.impl.WorkDatabase_Impl: WorkDatabase_Impl()
+com.dexterous.flutterlocalnotifications.models.styles.BigTextStyleInformation
+io.flutter.embedding.android.FlutterView: android.view.accessibility.AccessibilityNodeProvider getAccessibilityNodeProvider()
+androidx.lifecycle.Lifecycle$State: androidx.lifecycle.Lifecycle$State[] values()
+android.support.v4.graphics.drawable.IconCompatParcelizer
+com.google.android.gms.internal.firebase-auth-api.zzjn: com.google.android.gms.internal.firebase-auth-api.zzaab zzf
+com.google.android.gms.internal.firebase-auth-api.zzga: int zze
+io.flutter.embedding.android.FlutterActivityLaunchConfigs$BackgroundMode: io.flutter.embedding.android.FlutterActivityLaunchConfigs$BackgroundMode valueOf(java.lang.String)
+org.threeten.bp.ZoneOffset: java.lang.Object readResolve()
+org.threeten.bp.chrono.ThaiBuddhistEra
+org.threeten.bp.chrono.HijrahEra
+androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+com.google.android.gms.internal.firebase-auth-api.zzew
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String CANCEL_TAG
+org.threeten.bp.chrono.IsoEra: org.threeten.bp.chrono.IsoEra[] values()
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity: SignInHubActivity()
+com.dexterous.flutterlocalnotifications.SoundSource: com.dexterous.flutterlocalnotifications.SoundSource Uri
+com.google.android.gms.internal.firebase-auth-api.zzwy: android.os.Parcelable$Creator CREATOR
+com.dexterous.flutterlocalnotifications.models.PersonDetails: com.dexterous.flutterlocalnotifications.models.IconSource iconBitmapSource
+io.flutter.embedding.engine.FlutterJNI: void setSemanticsEnabled(boolean)
+io.flutter.view.AccessibilityViewEmbedder
+org.threeten.bp.chrono.JapaneseEra: java.lang.Object writeReplace()
+org.threeten.bp.OffsetDateTime: java.lang.Object writeReplace()
+com.google.android.exoplayer2.video.VideoDecoderOutputBuffer: int COLORSPACE_BT601
+com.google.android.gms.internal.firebase-auth-api.zzfi: com.google.android.gms.internal.firebase-auth-api.zzfi zzb
+io.flutter.embedding.engine.FlutterOverlaySurface: android.view.Surface surface
+com.google.android.gms.internal.firebase-auth-api.zzie
+io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar: java.util.List getComponents()
+androidx.work.impl.foreground.SystemForegroundService: SystemForegroundService()
+com.google.android.exoplayer2.metadata.flac.PictureFrame: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.safetynet.zzf: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterJNI$AsyncWaitForVsyncDelegate asyncWaitForVsyncDelegate
+androidx.core.app.RemoteActionCompat
+android.support.v4.media.AudioAttributesImplBaseParcelizer: androidx.media.AudioAttributesImplBase read(androidx.versionedparcelable.VersionedParcel)
+com.google.android.exoplayer2.video.VideoDecoderOutputBuffer
+com.google.android.gms.internal.firebase-auth-api.zzen: int zze
+com.dexterous.flutterlocalnotifications.models.IconSource: IconSource(java.lang.String,int)
+com.dexterous.flutterlocalnotifications.models.Time: Time()
+io.flutter.embedding.engine.FlutterJNI: void ensureAttachedToNative()
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String largeIcon
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String DELETE_NOTIFICATION_CHANNEL_GROUP_METHOD
+com.google.android.gms.internal.firebase-auth-api.zzez: com.google.android.gms.internal.firebase-auth-api.zzff zze
+com.google.android.gms.common.internal.safeparcel.SafeParcelable: java.lang.String NULL
+io.flutter.embedding.engine.FlutterJNI: void nativeOnVsync(long,long,long)
+io.flutter.embedding.engine.FlutterJNI: void setAccessibilityDelegate(io.flutter.embedding.engine.FlutterJNI$AccessibilityDelegate)
+org.threeten.bp.Duration
+com.google.firebase.auth.PlayGamesAuthCredential: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.android.FlutterImageView: io.flutter.embedding.engine.renderer.FlutterRenderer getAttachedRenderer()
+com.google.android.gms.dynamite.DynamiteModule$DynamiteLoaderClassLoader
+com.google.android.gms.common.internal.ResolveAccountRequest: android.os.Parcelable$Creator CREATOR
+com.dexterous.flutterlocalnotifications.models.styles.StyleInformation
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String ticker
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: void pushTransform(float[])
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String METHOD_CHANNEL
+com.google.common.util.concurrent.AbstractFuture: com.google.common.util.concurrent.AbstractFuture$Waiter waiters
+com.google.android.exoplayer2.video.VideoDecoderOutputBuffer: int height
+com.google.android.gms.internal.firebase-auth-api.zzen: com.google.android.gms.internal.firebase-auth-api.zzet zzg
+com.google.android.gms.internal.firebase-auth-api.zzij: java.lang.String zze
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.View access$602(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback,android.view.View)
+org.threeten.bp.chrono.MinguoEra: org.threeten.bp.chrono.MinguoEra valueOf(java.lang.String)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void release()
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String STYLE
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String GET_ACTIVE_NOTIFICATIONS_ERROR_CODE
+androidx.activity.OnBackPressedDispatcher$LifecycleOnBackPressedCancellable
+androidx.work.ExistingWorkPolicy: androidx.work.ExistingWorkPolicy valueOf(java.lang.String)
+androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver: ConstraintProxyUpdateReceiver()
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String SCHEDULED_DATE_TIME
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String INVALID_DRAWABLE_RESOURCE_ERROR_MESSAGE
+com.google.android.exoplayer2.video.VideoDecoderOutputBuffer: void initForPrivateFrame(int,int)
+org.threeten.bp.chrono.ChronoZonedDateTimeImpl
+io.flutter.plugin.platform.SingleViewPresentation: int viewId
+io.flutter.embedding.engine.FlutterJNI: java.lang.String[] computePlatformResolvedLocale(java.lang.String[])
+com.google.android.gms.internal.firebase-auth-api.zzmu: android.os.Parcelable$Creator CREATOR
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: com.dexterous.flutterlocalnotifications.SoundSource soundSource
+io.flutter.embedding.engine.FlutterJNI: void invokePlatformMessageEmptyResponseCallback(int)
+com.dexterous.flutterlocalnotifications.models.MessageDetails: com.dexterous.flutterlocalnotifications.models.PersonDetails person
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Integer groupAlertBehavior
+com.google.android.gms.internal.firebase-auth-api.zzjn: java.lang.String zze
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String INVALID_BIG_PICTURE_ERROR_CODE
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String CATEGORY
+com.google.firebase.auth.internal.zzz: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SoundType: io.flutter.embedding.engine.systemchannels.PlatformChannel$SoundType valueOf(java.lang.String)
+com.google.android.gms.internal.firebase-auth-api.zzjf
+io.flutter.embedding.engine.FlutterOverlaySurface: FlutterOverlaySurface(int,android.view.Surface)
+com.google.android.gms.common.api.Scope: android.os.Parcelable$Creator CREATOR
+com.google.firebase.auth.internal.GenericIdpActivity: GenericIdpActivity()
+com.google.android.exoplayer2.trackselection.DefaultTrackSelector$SelectionOverride: android.os.Parcelable$Creator CREATOR
+com.dexterous.flutterlocalnotifications.models.NotificationChannelGroupDetails: java.lang.String NAME
+com.google.android.gms.internal.firebase-auth-api.zzjc: com.google.android.gms.internal.firebase-auth-api.zzjc zzb
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void saveScheduledNotifications(android.content.Context,java.util.ArrayList)
+androidx.fragment.app.FragmentManagerState: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.firebase-auth-api.zzhw
+io.flutter.embedding.engine.FlutterJNI: void dispatchSemanticsAction(int,io.flutter.view.AccessibilityBridge$Action,java.lang.Object)
+com.google.android.gms.internal.firebase-auth-api.zzfx: int zzf
+android.support.v4.graphics.drawable.IconCompatParcelizer: IconCompatParcelizer()
+com.google.firebase.auth.FirebaseAuth
+com.google.android.gms.dynamite.descriptors.com.google.firebase.auth.ModuleDescriptor: java.lang.String MODULE_ID
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityDestroyed(android.app.Activity)
+org.threeten.bp.zone.Ser
+com.google.android.exoplayer2.decoder.Buffer: void setFlags(int)
+androidx.work.ArrayCreatingInputMerger
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void access$000(android.content.SharedPreferences$Editor,int)
+org.threeten.bp.chrono.HijrahEra: org.threeten.bp.chrono.HijrahEra[] values()
+com.google.android.exoplayer2.decoder.Buffer: void addFlag(int)
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: NotificationChannelDetails()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String getNextFireDate(com.dexterous.flutterlocalnotifications.models.NotificationDetails)
+com.google.android.gms.internal.firebase-auth-api.zzim: java.lang.String zzi
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String SELECT_NOTIFICATION
+com.google.android.gms.dynamite.DynamiteModule$DynamiteLoaderClassLoader: DynamiteModule$DynamiteLoaderClassLoader()
+androidx.media.AudioAttributesImplApi26Parcelizer: AudioAttributesImplApi26Parcelizer()
+androidx.media.AudioAttributesImplApi21Parcelizer: androidx.media.AudioAttributesImplApi21 read(androidx.versionedparcelable.VersionedParcel)
+com.google.common.util.concurrent.AbstractFuture$Waiter: com.google.common.util.concurrent.AbstractFuture$Waiter next
+com.dexterous.flutterlocalnotifications.models.styles.BigPictureStyleInformation: java.lang.String summaryText
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String VISIBILITY
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: android.graphics.Matrix getFinalMatrix()
+io.flutter.embedding.engine.systemchannels.PlatformChannel$Brightness: io.flutter.embedding.engine.systemchannels.PlatformChannel$Brightness[] values()
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String SUMMARY_TEXT
+com.dexterous.flutterlocalnotifications.models.styles.DefaultStyleInformation: java.lang.Boolean htmlFormatTitle
+io.flutter.view.AccessibilityViewEmbedder: android.util.SparseArray flutterIdToOrigin
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void setInboxStyle(com.dexterous.flutterlocalnotifications.models.NotificationDetails,androidx.core.app.NotificationCompat$Builder)
+com.google.android.gms.internal.firebase-auth-api.zzjq
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails fromNotificationDetails(com.dexterous.flutterlocalnotifications.models.NotificationDetails)
+com.google.android.gms.internal.firebase-auth-api.zzji: com.google.android.gms.internal.firebase-auth-api.zzij zzf
+io.flutter.embedding.engine.FlutterJNI: void nativeDestroy(long)
+org.threeten.bp.Duration: java.lang.Object writeReplace()
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: long[] vibrationPattern
+com.google.android.gms.internal.firebase-auth-api.zzfc
+io.flutter.embedding.engine.FlutterJNI: void nativePrefetchDefaultFontManager()
+io.flutter.embedding.engine.FlutterJNI: void onSurfaceWindowChanged(android.view.Surface)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String NOTIFICATION_DETAILS
+android.support.v4.media.session.PlaybackStateCompat$CustomAction: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.FlutterJNI: void init(android.content.Context,java.lang.String[],java.lang.String,java.lang.String,java.lang.String,long)
+com.google.android.gms.internal.firebase-auth-api.zziq: int zzf
+com.google.android.gms.safetynet.zzh: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.FlutterJNI: void loadDartDeferredLibrary(int,java.lang.String[])
+androidx.fragment.app.FragmentManagerViewModel
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String ZONED_SCHEDULE_METHOD
+com.dexterous.flutterlocalnotifications.models.styles.BigPictureStyleInformation: java.lang.String bigPicture
+io.flutter.plugin.platform.SingleViewPresentation: boolean startFocused
+com.google.android.gms.internal.firebase-auth-api.zzgg: com.google.android.gms.internal.firebase-auth-api.zzgg zzb
+com.google.android.exoplayer2.metadata.scte35.PrivateCommand: android.os.Parcelable$Creator CREATOR
+com.google.firebase.auth.internal.RecaptchaActivity
+android.support.v4.media.session.MediaSessionCompat$ResultReceiverWrapper: android.os.Parcelable$Creator CREATOR
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String getNextFireDateMatchingDateTimeComponents(com.dexterous.flutterlocalnotifications.models.NotificationDetails)
+com.google.android.exoplayer2.metadata.icy.IcyHeaders: android.os.Parcelable$Creator CREATOR
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String TAG
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: android.content.Intent launchIntent
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: com.dexterous.flutterlocalnotifications.models.Time repeatTime
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String BOT

@@ -1,0 +1,68 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\EGDownloads\\flutter_parallax_scroll-master\\Serene\\build\\flutter_web_browser\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-zh-rTW\\values-zh-rTW.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\vidit\\.gradle\\caches\\transforms-2\\files-2.1\\c9c77f9bbf95b6d0592000f80bfb318e\\browser-1.2.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,139,231,332",
+                        "endColumns": "83,91,100,91",
+                        "endOffsets": "134,226,327,419"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\vidit\\.gradle\\caches\\transforms-2\\files-2.1\\fb73544f679842d1b2bc88560a1be8f2\\core-1.1.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "424",
+                        "endColumns": "100",
+                        "endOffsets": "520"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\EGDownloads\\flutter_parallax_scroll-master\\Serene\\build\\flutter_web_browser\\intermediates\\res\\merged\\release\\values-zh-rTW\\values-zh-rTW.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\vidit\\.gradle\\caches\\transforms-2\\files-2.1\\c9c77f9bbf95b6d0592000f80bfb318e\\browser-1.2.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,139,231,332",
+                        "endColumns": "83,91,100,91",
+                        "endOffsets": "134,226,327,419"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\vidit\\.gradle\\caches\\transforms-2\\files-2.1\\fb73544f679842d1b2bc88560a1be8f2\\core-1.1.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "424",
+                        "endColumns": "100",
+                        "endOffsets": "520"
+                    }
+                }
+            ]
+        }
+    ]
+}

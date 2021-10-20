@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">569746859349-cmeff0nhfa6rr1ruvb5u63n31pkrgt94.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">569746859349</string>
+    <string name="google_api_key" translatable="false">AIzaSyAOUIlEXEnQJVlHWw_-TsoD_p_T1SLI1Ko</string>
+    <string name="google_app_id" translatable="false">1:569746859349:android:670779612a3b57d122bbdc</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAOUIlEXEnQJVlHWw_-TsoD_p_T1SLI1Ko</string>
+    <string name="google_storage_bucket" translatable="false">habits-60e66.appspot.com</string>
+    <string name="project_id" translatable="false">habits-60e66</string>
+</resources>

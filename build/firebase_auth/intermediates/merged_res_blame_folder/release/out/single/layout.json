@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\EGDownloads\\flutter_parallax_scroll-master\\Serene\\build\\firebase_auth\\intermediates\\res\\merged\\release\\layout\\browser_actions_context_menu_page.xml",
+        "source": "C:\\Users\\vidit\\.gradle\\caches\\transforms-2\\files-2.1\\5b00da5a3ae0bebcd96774a9044a4373\\browser-1.0.0\\res\\layout\\browser_actions_context_menu_page.xml"
+    },
+    {
+        "merged": "C:\\EGDownloads\\flutter_parallax_scroll-master\\Serene\\build\\firebase_auth\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\vidit\\.gradle\\caches\\transforms-2\\files-2.1\\fb73544f679842d1b2bc88560a1be8f2\\core-1.1.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\EGDownloads\\flutter_parallax_scroll-master\\Serene\\build\\firebase_auth\\intermediates\\res\\merged\\release\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\vidit\\.gradle\\caches\\transforms-2\\files-2.1\\fb73544f679842d1b2bc88560a1be8f2\\core-1.1.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\EGDownloads\\flutter_parallax_scroll-master\\Serene\\build\\firebase_auth\\intermediates\\res\\merged\\release\\layout\\browser_actions_context_menu_row.xml",
+        "source": "C:\\Users\\vidit\\.gradle\\caches\\transforms-2\\files-2.1\\5b00da5a3ae0bebcd96774a9044a4373\\browser-1.0.0\\res\\layout\\browser_actions_context_menu_row.xml"
+    },
+    {
+        "merged": "C:\\EGDownloads\\flutter_parallax_scroll-master\\Serene\\build\\firebase_auth\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\vidit\\.gradle\\caches\\transforms-2\\files-2.1\\fb73544f679842d1b2bc88560a1be8f2\\core-1.1.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\EGDownloads\\flutter_parallax_scroll-master\\Serene\\build\\firebase_auth\\intermediates\\res\\merged\\release\\layout\\notification_action.xml",
+        "source": "C:\\Users\\vidit\\.gradle\\caches\\transforms-2\\files-2.1\\fb73544f679842d1b2bc88560a1be8f2\\core-1.1.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\EGDownloads\\flutter_parallax_scroll-master\\Serene\\build\\firebase_auth\\intermediates\\res\\merged\\release\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\vidit\\.gradle\\caches\\transforms-2\\files-2.1\\fb73544f679842d1b2bc88560a1be8f2\\core-1.1.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\EGDownloads\\flutter_parallax_scroll-master\\Serene\\build\\firebase_auth\\intermediates\\res\\merged\\release\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\vidit\\.gradle\\caches\\transforms-2\\files-2.1\\fb73544f679842d1b2bc88560a1be8f2\\core-1.1.0\\res\\layout\\custom_dialog.xml"
+    }
+]

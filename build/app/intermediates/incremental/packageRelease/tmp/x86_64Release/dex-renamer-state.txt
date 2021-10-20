@@ -1,0 +1,4 @@
+#Sun Jun 13 16:16:20 IST 2021
+base.0=C\:\\EGDownloads\\flutter_parallax_scroll-master\\Serene\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

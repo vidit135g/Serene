@@ -1,0 +1,68 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\EGDownloads\\flutter_parallax_scroll-master\\Serene\\build\\flutter_web_browser\\intermediates\\res\\merged\\release\\values-am\\values-am.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\vidit\\.gradle\\caches\\transforms-2\\files-2.1\\c9c77f9bbf95b6d0592000f80bfb318e\\browser-1.2.0\\res\\values-am\\values-am.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,151,246,352",
+                        "endColumns": "95,94,105,95",
+                        "endOffsets": "146,241,347,443"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\vidit\\.gradle\\caches\\transforms-2\\files-2.1\\fb73544f679842d1b2bc88560a1be8f2\\core-1.1.0\\res\\values-am\\values-am.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "448",
+                        "endColumns": "100",
+                        "endOffsets": "544"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\EGDownloads\\flutter_parallax_scroll-master\\Serene\\build\\flutter_web_browser\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-am\\values-am.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\vidit\\.gradle\\caches\\transforms-2\\files-2.1\\c9c77f9bbf95b6d0592000f80bfb318e\\browser-1.2.0\\res\\values-am\\values-am.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,151,246,352",
+                        "endColumns": "95,94,105,95",
+                        "endOffsets": "146,241,347,443"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\vidit\\.gradle\\caches\\transforms-2\\files-2.1\\fb73544f679842d1b2bc88560a1be8f2\\core-1.1.0\\res\\values-am\\values-am.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "448",
+                        "endColumns": "100",
+                        "endOffsets": "544"
+                    }
+                }
+            ]
+        }
+    ]
+}
