@@ -64,7 +64,7 @@ class _SelectChecklistTypeState extends State<SelectChecklistType> {
                 ),
                 keyboardType: TextInputType.number,
                 inputFormatters: <TextInputFormatter>[
-                  WhitelistingTextInputFormatter.digitsOnly
+                  FilteringTextInputFormatter.digitsOnly
                 ],
                 onChanged: (val) => setState(() {
                   times = int.parse(val);
@@ -100,8 +100,7 @@ class _SelectChecklistTypeState extends State<SelectChecklistType> {
             padding: EdgeInsets.all(10),
             child: ButtonBar(
               children: [
-                OutlineButton(
-                  color: _accent,
+                OutlinedButton(
                   onPressed: () => {
                     setState(() {
                       isSimple = true;
@@ -122,8 +121,7 @@ class _SelectChecklistTypeState extends State<SelectChecklistType> {
                     ),
                   ),
                 ),
-                FlatButton(
-                  color: _accent.withOpacity(0.2),
+                TextButton(
                   onPressed: () => {
                     widget.onChange(new ChecklistType(
                       isSimple: this.isSimple,

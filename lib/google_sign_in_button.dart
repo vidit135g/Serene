@@ -24,13 +24,15 @@ class _GoogleSignInButtonState extends State<GoogleSignInButton> {
                 valueColor: AlwaysStoppedAnimation<Color>(
                     Color.fromARGB(255, 173, 173, 242)),
               )
-            : RaisedButton(
-                elevation: 0,
-                shape: RoundedRectangleBorder(
-                  borderRadius: BorderRadius.circular(50.0),
+            : ElevatedButton(
+                style: ElevatedButton.styleFrom(
+                  elevation: 0,
+                  shape: RoundedRectangleBorder(
+                    borderRadius: BorderRadius.circular(50.0),
+                  ),
+                  backgroundColor: Colors.white,
+                  foregroundColor: Colors.black,
                 ),
-                color: Colors.white,
-                textColor: Colors.black,
                 onPressed: () async {
                   setState(() {
                     _isSigningIn = true;

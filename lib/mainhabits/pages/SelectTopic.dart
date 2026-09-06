@@ -34,11 +34,15 @@ class SelectTopic extends StatelessWidget {
   Widget _getFab(context) {
     return Padding(
       padding: EdgeInsets.all(20),
-      child: RaisedButton.icon(
-          padding: EdgeInsets.all(10),
-          shape:
-              RoundedRectangleBorder(borderRadius: BorderRadius.circular(40.0)),
-          color: CustomColors.darkhabit,
+      child: ElevatedButton.icon(
+          style: ElevatedButton.styleFrom(
+            elevation: 0,
+            padding: EdgeInsets.all(10),
+            shape:
+                RoundedRectangleBorder(borderRadius: BorderRadius.circular(40.0)),
+            backgroundColor: CustomColors.darkhabit,
+            foregroundColor: Colors.white,
+          ),
           label: Text(
             'Custom',
             style: GoogleFonts.nunito(

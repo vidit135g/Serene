@@ -9,7 +9,7 @@ class Constants {
   // Material Design Color
   static Color lightPrimary = Color(0xfffcfcff);
   static Color lightAccent = CustomColors.backgroundGreen;
-  static Color lightBackground = Color(0xfffcfcff);
+  static Color lightBackground = Color(0xFFF2F2F7);
 
   static Color grey = Color(0xff707070);
   static Color textPrimary = CustomColors.backgroundGreen;
@@ -40,8 +40,16 @@ class Constants {
       backgroundColor: lightBackground,
       primaryColor: lightPrimary,
       accentColor: CustomColors.backgroundGreen,
-      cursorColor: lightAccent,
       scaffoldBackgroundColor: lightBackground,
+      cardColor: Colors.white,
+      cardTheme: CardTheme(
+        elevation: 0,
+        shape: RoundedRectangleBorder(
+          borderRadius: BorderRadius.circular(16),
+          side: BorderSide(color: Color(0xFFE5E5EA), width: 1),
+        ),
+      ),
+      textSelectionTheme: TextSelectionThemeData(cursorColor: lightAccent),
       textTheme: GoogleFonts.latoTextTheme(Theme.of(context).textTheme),
       appBarTheme: AppBarTheme(
         textTheme: GoogleFonts.latoTextTheme(Theme.of(context).textTheme),

@@ -75,12 +75,19 @@ class _BooleanListItemState extends State<BooleanListItem> {
     var displayReminder = _getReminder();
 
     return Container(
-      margin: const EdgeInsets.fromLTRB(15.0, 10.0, 15.0, 10.0),
-      padding: const EdgeInsets.only(top: 5.0, left: 5.0, bottom: 5.0),
+      margin: const EdgeInsets.fromLTRB(16.0, 5.0, 16.0, 5.0),
+      padding: const EdgeInsets.only(top: 4.0, left: 4.0, bottom: 4.0),
       decoration: BoxDecoration(
-        border: Border.all(color: borderColor),
-        color: CustomColors.lighthabit,
-        borderRadius: BorderRadius.all(Radius.circular(22)),
+        border: Border.all(color: const Color(0xFFE5E5EA), width: 1.0),
+        color: Colors.white,
+        borderRadius: const BorderRadius.all(Radius.circular(16)),
+        boxShadow: [
+          BoxShadow(
+            color: Colors.black.withOpacity(0.03),
+            blurRadius: 8,
+            offset: const Offset(0, 2),
+          ),
+        ],
       ),
       child: ListTile(
         dense: true,

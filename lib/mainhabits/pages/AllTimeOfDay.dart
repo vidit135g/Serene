@@ -180,7 +180,7 @@ class _AllTimeOfDayState extends State<AllTimeOfDay> {
         ),
         backgroundColor: _theme.scaffoldBackgroundColor,
         actions: [
-          FlatButton(
+          TextButton(
               onPressed: () {
                 sp.timeArea = data;
                 Navigator.pop(context);

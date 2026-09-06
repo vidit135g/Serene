@@ -22,13 +22,13 @@ class MoodCard extends StatelessWidget {
           // Here the height of the container is 45% of our total height
           decoration: BoxDecoration(
             color: Colors.white,
-            borderRadius: BorderRadius.circular(18),
+            borderRadius: BorderRadius.circular(20),
+            border: Border.all(color: const Color(0xFFE5E5EA), width: 1.0),
             boxShadow: [
               BoxShadow(
-                offset: Offset(0, 17),
-                blurRadius: 17,
-                spreadRadius: -23,
-                color: kShadowColor,
+                offset: const Offset(0, 6),
+                blurRadius: 16,
+                color: Colors.black.withOpacity(0.04),
               ),
             ],
           ),

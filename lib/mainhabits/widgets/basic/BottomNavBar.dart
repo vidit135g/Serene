@@ -8,15 +8,15 @@ class BottomNavBar extends StatelessWidget {
     return const [
       BottomNavigationBarItem(
         icon: Icon(Icons.view_day),
-        title: Text('Today'),
+        label: 'Today',
       ),
       BottomNavigationBarItem(
         icon: Icon(Icons.insert_chart),
-        title: Text('Progress'),
+        label: 'Progress',
       ),
       BottomNavigationBarItem(
         icon: Icon(Icons.settings),
-        title: Text('Settings'),
+        label: 'Settings',
       ),
     ];
   }

@@ -29,8 +29,9 @@ class CardCourses extends StatelessWidget {
         padding: EdgeInsets.all(30.0),
         margin: EdgeInsets.only(bottom: 10),
         decoration: BoxDecoration(
-          borderRadius: BorderRadius.circular(30.0),
+          borderRadius: BorderRadius.circular(20.0),
           color: color,
+          border: Border.all(color: const Color(0xFFE5E5EA), width: 1.0),
         ),
         child: InkWell(
           onTap: press,

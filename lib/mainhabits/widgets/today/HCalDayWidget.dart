@@ -136,10 +136,14 @@ class HCalDayWidget extends StatelessWidget {
                         child: Container(
                           height: 40.0,
                           padding: EdgeInsets.only(left: 20.0),
-                          child: RaisedButton.icon(
-                            shape: RoundedRectangleBorder(
-                                borderRadius: BorderRadius.circular(18.0)),
-                            color: Colors.white,
+                          child: ElevatedButton.icon(
+                            style: ElevatedButton.styleFrom(
+                              elevation: 0,
+                              shape: RoundedRectangleBorder(
+                                  borderRadius: BorderRadius.circular(18.0)),
+                              backgroundColor: Colors.white,
+                              foregroundColor: Colors.black,
+                            ),
                             label: Text(
                               'Create',
                               style: GoogleFonts.nunito(

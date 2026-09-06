@@ -99,9 +99,9 @@ class _NewHabitState extends State<NewHabit> {
         onPressed: () => Navigator.pop(context),
       ),
       actions: <Widget>[
-        FlatButton(
+        TextButton(
           onPressed: () => this.title == null
-              ? _scaffoldKey.currentState.showSnackBar(SnackBar(
+              ? ScaffoldMessenger.of(context).showSnackBar(SnackBar(
                   content: Text("please enter a title for the Habbit"),
                 ))
               : _saveHabit(),

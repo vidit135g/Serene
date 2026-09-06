@@ -94,7 +94,7 @@ class _TimesListItemState extends State<TimesListItem> {
                 ),
               ),
               actions: <Widget>[
-                FlatButton(
+                TextButton(
                   child: Text('Okay'),
                   onPressed: () => Navigator.of(context).pop(),
                 ),
@@ -224,9 +224,16 @@ class _TimesListItemState extends State<TimesListItem> {
         : _theme.textTheme.subtitle2.color.withAlpha(_darkMode ? 100 : 50);
 
     var _border = BoxDecoration(
-      border: Border.all(color: borderColor),
-      color: CustomColors.lighthabit,
-      borderRadius: BorderRadius.all(Radius.circular(22)),
+      border: Border.all(color: const Color(0xFFE5E5EA), width: 1.0),
+      color: Colors.white,
+      borderRadius: const BorderRadius.all(Radius.circular(16)),
+      boxShadow: [
+        BoxShadow(
+          color: Colors.black.withOpacity(0.03),
+          blurRadius: 8,
+          offset: const Offset(0, 2),
+        ),
+      ],
     );
 
     var _progressTxt =
@@ -249,7 +256,7 @@ class _TimesListItemState extends State<TimesListItem> {
         ),
         child: Card(
           elevation: 0.0,
-          color: CustomColors.lighthabit,
+          color: Colors.white,
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
